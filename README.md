@@ -1,4 +1,4 @@
-# Herzlich willkommen im Repository zur Dissertation *Reading at Scale: Eine Mixed-Methods-Analyse der „Deutschen Novellenschätze“*
+# Herzlich willkommen im Repository zu *Reading at Scale: Eine Mixed-Methods-Analyse der „Deutschen Novellenschätze“*
 
 Die Arbeit ist 2025 in der Reihe *„Digitale Literaturwissenschaft“* bei J.B. Metzler/Springer Nature erschienen.  
 DOI: [10.1007/978-3-662-70346-5](https://doi.org/10.1007/978-3-662-70346-5)
