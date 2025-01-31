@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>P69 Silhouette</title>
+                <author>empty</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>empty</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>empty</p>
+                <ab>
+                    <fs xml:id="CATMA_TECH_DESC">
+                        <f name="version">
+                            <string>5</string>
+                        </f>
+                    </fs>
+                </ab>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <fsdDecl xml:id="T_4C3D0C71-71AF-4662-8B2B-9CCC992A0799" n="Tagset_Silhouette e8fa1249a31c76f3d1c62b17feb0a92c93372f40">
+                <fsDecl xml:id="CATMA_9F179D38-CF11-4B1F-BC2B-B90F2B8F815F" n="2023-03-13T22:53:02.000+0100" type="CATMA_9F179D38-CF11-4B1F-BC2B-B90F2B8F815F">
+                    <fsDescr>Binnenhandlung</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-14762416</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>KHerget</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_70726320-4938-4315-8D82-D4848C3C2E1F" n="2023-03-13T22:53:02.000+0100" type="CATMA_70726320-4938-4315-8D82-D4848C3C2E1F">
+                    <fsDescr>Figuren</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-5924432</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>KHerget</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_C4ECA277-6EA4-4F6C-AF96-214B6B44D73B" n="2023-03-13T22:53:02.000+0100" type="CATMA_C4ECA277-6EA4-4F6C-AF96-214B6B44D73B" baseTypes="CATMA_70726320-4938-4315-8D82-D4848C3C2E1F">
+                    <fsDescr>Freifrau v. Börte</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-31515</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>KHerget</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_9E48D09E-D176-48B4-A566-BF789B52BE4D" n="2023-03-13T22:53:02.000+0100" type="CATMA_9E48D09E-D176-48B4-A566-BF789B52BE4D" baseTypes="CATMA_70726320-4938-4315-8D82-D4848C3C2E1F">
+                    <fsDescr>Graf Lothar</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-16142</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>KHerget</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_0316A97E-B4D3-4006-AF4D-C417D9237A13" n="2023-03-13T22:53:02.000+0100" type="CATMA_0316A97E-B4D3-4006-AF4D-C417D9237A13" baseTypes="CATMA_70726320-4938-4315-8D82-D4848C3C2E1F">
+                    <fsDescr>Baron von Börte</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-982849</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>KHerget</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_C29E2E61-ABFF-434E-A9C9-945EA22D5BA2" n="2023-03-13T22:53:02.000+0100" type="CATMA_C29E2E61-ABFF-434E-A9C9-945EA22D5BA2" baseTypes="CATMA_70726320-4938-4315-8D82-D4848C3C2E1F">
+                    <fsDescr>Erzähler</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-3997510</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>KHerget</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_0EBB808A-D2BE-43C3-94E6-C67139F83C70" n="2023-03-13T22:53:02.000+0100" type="CATMA_0EBB808A-D2BE-43C3-94E6-C67139F83C70" baseTypes="CATMA_70726320-4938-4315-8D82-D4848C3C2E1F">
+                    <fsDescr>Leo Thurn</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-39218</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>KHerget</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_B278CA3D-6BCF-494F-9EBA-2A2DFC474B30" n="2023-03-13T22:53:02.000+0100" type="CATMA_B278CA3D-6BCF-494F-9EBA-2A2DFC474B30">
+                    <fsDescr>Gemälde</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-8886529</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>KHerget</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_671BF202-49D0-4DB7-BD48-3203EA7B342E" n="2023-03-13T22:53:02.000+0100" type="CATMA_671BF202-49D0-4DB7-BD48-3203EA7B342E">
+                    <fsDescr>Rahmenhandlung</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-16765435</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>KHerget</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_E88A88A5-23D0-4F0E-A578-EB9D619BB979" n="2023-03-13T22:53:02.000+0100" type="CATMA_E88A88A5-23D0-4F0E-A578-EB9D619BB979">
+                    <fsDescr>Themen der Novelle</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-8538625</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>KHerget</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_25F64EEE-55A1-4B92-9534-CCAD99745B76" n="2023-03-13T22:53:02.000+0100" type="CATMA_25F64EEE-55A1-4B92-9534-CCAD99745B76" baseTypes="CATMA_E88A88A5-23D0-4F0E-A578-EB9D619BB979">
+                    <fsDescr>Geld</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-13057025</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>KHerget</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_B24DE523-B5E7-4DCD-9EAF-DC8326EA3D73" n="2023-03-13T22:53:02.000+0100" type="CATMA_B24DE523-B5E7-4DCD-9EAF-DC8326EA3D73" baseTypes="CATMA_E88A88A5-23D0-4F0E-A578-EB9D619BB979">
+                    <fsDescr>Liebe/Ehe</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-11157540</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>KHerget</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_C5D10BAD-8957-4F15-AE14-5CBC2C9D0147" n="2023-03-13T22:53:02.000+0100" type="CATMA_C5D10BAD-8957-4F15-AE14-5CBC2C9D0147" baseTypes="CATMA_E88A88A5-23D0-4F0E-A578-EB9D619BB979">
+                    <fsDescr>Adel/Bürgertum</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-8506728</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>KHerget</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_59EC489A-814F-49D2-B007-37B2053A85C5" n="2023-03-13T22:53:02.000+0100" type="CATMA_59EC489A-814F-49D2-B007-37B2053A85C5" baseTypes="CATMA_E88A88A5-23D0-4F0E-A578-EB9D619BB979">
+                    <fsDescr>Unglück</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-9378599</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>KHerget</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_B3B47E6C-2F56-4656-A429-0D4F76893051" n="2023-03-13T22:53:02.000+0100" type="CATMA_B3B47E6C-2F56-4656-A429-0D4F76893051">
+                    <fsDescr>Wertung</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-9987217</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>KHerget</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_D19BC895-52ED-4063-8F4A-8C9E83F02F0D" name="Leser:innenperspektive">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A72BBC6A-84BB-4C9C-9C0B-195C87262B19" name="Autorenbezug">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_714D60CC-15B2-4A8B-8D61-5A0053E6BB32" n="2023-03-13T22:53:02.000+0100" type="CATMA_714D60CC-15B2-4A8B-8D61-5A0053E6BB32">
+                    <fsDescr>Zeit der Handlung</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-5655970</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>KHerget</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_97AAE72C-4E84-41B4-86F8-EC7F70EB6CEF" n="2023-03-13T22:53:02.000+0100" type="CATMA_97AAE72C-4E84-41B4-86F8-EC7F70EB6CEF" baseTypes="CATMA_714D60CC-15B2-4A8B-8D61-5A0053E6BB32">
+                    <fsDescr>Weihnachten</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-721075</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>KHerget</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_16CBF092-5610-4965-8737-E2A8D8C66B0D" n="2023-03-13T22:53:02.000+0100" type="CATMA_16CBF092-5610-4965-8737-E2A8D8C66B0D" baseTypes="CATMA_714D60CC-15B2-4A8B-8D61-5A0053E6BB32">
+                    <fsDescr>Winter</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-1726934</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>KHerget</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+            </fsdDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <ab type="catma">
+                <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=0,4" type="inclusion"/>
+                <seg ana="#CATMA_11197151-8CB9-47DF-BA81-37D0906A5D5C">
+                    <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=4,8" type="inclusion"/>
+                </seg>
+                <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=8,69" type="inclusion"/>
+                <seg ana="#CATMA_5B2C7BE4-A802-4559-8EF9-87EDE04D6B8C">
+                    <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=69,76" type="inclusion"/>
+                </seg>
+                <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=76,89" type="inclusion"/>
+                <seg ana="#CATMA_11197151-8CB9-47DF-BA81-37D0906A5D5C">
+                    <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=89,91" type="inclusion"/>
+                </seg>
+                <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=91,137" type="inclusion"/>
+                <seg ana="#CATMA_70CDC793-A8AF-4B6D-A897-909A714A063B">
+                    <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=137,141" type="inclusion"/>
+                </seg>
+                <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=141,155" type="inclusion"/>
+                <seg ana="#CATMA_11197151-8CB9-47DF-BA81-37D0906A5D5C">
+                    <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=155,157" type="inclusion"/>
+                </seg>
+                <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=157,204" type="inclusion"/>
+                <seg ana="#CATMA_70CDC793-A8AF-4B6D-A897-909A714A063B">
+                    <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=204,207" type="inclusion"/>
+                </seg>
+                <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=207,213" type="inclusion"/>
+                <seg ana="#CATMA_0C9BF45D-CC54-4B6E-B16A-863831D4B054">
+                    <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=213,217" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_0C9BF45D-CC54-4B6E-B16A-863831D4B054">
+                    <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=217,248" type="inclusion"/>
+                </seg>
+                <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=248,253" type="inclusion"/>
+                <seg ana="#CATMA_11197151-8CB9-47DF-BA81-37D0906A5D5C">
+                    <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=253,255" type="inclusion"/>
+                </seg>
+                <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=255,296" type="inclusion"/>
+                <seg ana="#CATMA_11197151-8CB9-47DF-BA81-37D0906A5D5C">
+                    <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=296,298" type="inclusion"/>
+                </seg>
+                <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=298,311" type="inclusion"/>
+                <seg ana="#CATMA_70CDC793-A8AF-4B6D-A897-909A714A063B">
+                    <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=311,315" type="inclusion"/>
+                </seg>
+                <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=315,376" type="inclusion"/>
+                <seg ana="#CATMA_C5B87999-8028-40C7-A2E2-846A889CEF25 #CATMA_70CDC793-A8AF-4B6D-A897-909A714A063B">
+                    <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=376,380" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_C5B87999-8028-40C7-A2E2-846A889CEF25">
+                    <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=380,390" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_D7EC84D6-7D99-497D-979C-E299487213B8 #CATMA_C5B87999-8028-40C7-A2E2-846A889CEF25">
+                    <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=390,396" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_C5B87999-8028-40C7-A2E2-846A889CEF25">
+                    <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=396,426" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_C5B87999-8028-40C7-A2E2-846A889CEF25 #CATMA_0EF3A97D-4442-4346-A688-760EB3A85DB8">
+                    <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=426,430" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_C5B87999-8028-40C7-A2E2-846A889CEF25">
+                    <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=430,432" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_C5B87999-8028-40C7-A2E2-846A889CEF25">
+                    <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=432,498" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_C5B87999-8028-40C7-A2E2-846A889CEF25">
+                    <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=498,505" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_C5B87999-8028-40C7-A2E2-846A889CEF25 #CATMA_70CDC793-A8AF-4B6D-A897-909A714A063B">
+                    <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=505,509" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_C5B87999-8028-40C7-A2E2-846A889CEF25">
+                    <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=509,512" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_C5B87999-8028-40C7-A2E2-846A889CEF25 #CATMA_70CDC793-A8AF-4B6D-A897-909A714A063B">
+                    <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=512,515" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_C5B87999-8028-40C7-A2E2-846A889CEF25">
+                    <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=515,577" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_C5B87999-8028-40C7-A2E2-846A889CEF25">
+                    <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=577,583" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_C5B87999-8028-40C7-A2E2-846A889CEF25">
+                    <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=583,594" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_7517BC36-EB7B-4635-B9F6-A7F4A82E30A7 #CATMA_C5B87999-8028-40C7-A2E2-846A889CEF25">
+                    <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=594,598" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_C5B87999-8028-40C7-A2E2-846A889CEF25">
+                    <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=598,611" type="inclusion"/>
+                </seg>
+                <ptr target="D_B35E1668-E314-450B-9C43-F384C912E9FE#char=611,614" type="inclusion"/>
+            </ab>
+        </body>
+        <fs xml:id="CATMA_11197151-8CB9-47DF-BA81-37D0906A5D5C" type="CATMA_C29E2E61-ABFF-434E-A9C9-945EA22D5BA2">
+            <f name="catma_markupauthor">
+                <string>KHerget</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2022-10-19T16:42:06.630+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-3997510</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_5B2C7BE4-A802-4559-8EF9-87EDE04D6B8C" type="CATMA_B278CA3D-6BCF-494F-9EBA-2A2DFC474B30">
+            <f name="catma_markupauthor">
+                <string>KHerget</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2022-10-19T16:43:16.610+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-8886529</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_70CDC793-A8AF-4B6D-A897-909A714A063B" type="CATMA_C4ECA277-6EA4-4F6C-AF96-214B6B44D73B">
+            <f name="catma_markupauthor">
+                <string>KHerget</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2022-10-19T16:43:00.244+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-31515</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_0C9BF45D-CC54-4B6E-B16A-863831D4B054" type="CATMA_B24DE523-B5E7-4DCD-9EAF-DC8326EA3D73">
+            <f name="catma_markupauthor">
+                <string>KHerget</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2022-10-19T16:43:31.783+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-11157540</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_C5B87999-8028-40C7-A2E2-846A889CEF25" type="CATMA_B24DE523-B5E7-4DCD-9EAF-DC8326EA3D73">
+            <f name="catma_markupauthor">
+                <string>KHerget</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2022-10-19T16:44:32.886+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-11157540</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_D7EC84D6-7D99-497D-979C-E299487213B8" type="CATMA_0316A97E-B4D3-4006-AF4D-C417D9237A13">
+            <f name="catma_markupauthor">
+                <string>KHerget</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2022-10-19T16:43:41.233+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-982849</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_0EF3A97D-4442-4346-A688-760EB3A85DB8" type="CATMA_9E48D09E-D176-48B4-A566-BF789B52BE4D">
+            <f name="catma_markupauthor">
+                <string>KHerget</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2022-10-19T16:43:54.570+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-16142</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_7517BC36-EB7B-4635-B9F6-A7F4A82E30A7" type="CATMA_0EBB808A-D2BE-43C3-94E6-C67139F83C70">
+            <f name="catma_markupauthor">
+                <string>KHerget</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2022-10-19T16:44:19.324+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-39218</string>
+            </f>
+        </fs>
+    </text>
+</TEI>

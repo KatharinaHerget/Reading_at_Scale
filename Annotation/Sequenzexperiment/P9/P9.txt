@@ -1,0 +1,7 @@
+Der Erzähler begibt sich auf eine Reise aufs Land
+Der Erzähler sammelt Informationen über das Dorf und die Baronin
+Zusammenfassung über die Baronin
+Der Erzähler macht sich auf, um ein Gemälde zu finden welches die Baronin besitzt. 
+Der Erzähler wird eingeladen, das Bild anzusehen. 
+Es wird eine Geschichte +UL+ über das Bild erzählt.
+

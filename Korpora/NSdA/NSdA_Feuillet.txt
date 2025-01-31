@@ -1,0 +1,929 @@
+Julia von Trécoeur.
+
+Von Octave Feuillet (Aus dem Französischen von Amélie Godin)
+
+I.
+
+Alle, die, gleich uns, Raoul von Trécoeur in seiner frühen Jugend kannten, glaubten ihn zu großer Berühmtheit bestimmt. Er war ungewöhnlich begabt: noch sind zwei oder drei Skizzen und einige hundert Verse von ihm vorhanden, die Meisterhaftes versprachen; er war aber sehr reich und hatte eine sehr schlechte Erziehung erhalten: so schlug er rasch zum Dilettanten um. Gleich den meisten Männern seiner Generation jedem Pflichtgefühle fremd, ließ er sich zügellos durch seine Instincte fortreißen, die, zum Glück für die Andern, mehr lebhaft als bösartig waren. Als er daher in voller Jugend starb, wurde seine rücksichtslose Hingabe an Alles, was ihm angenehm war, allgemein nur bedauert. Man sagte: der arme Junge hat Niemanden geschadet, als sich selbst; dies war übrigens nicht richtig.
+
+Trécoeur hatte sich, fünfundzwanzig Jahre alt, mit seiner Cousine, Clotilde von Pers, vermählt, einem trefflichen und anmuthigen Mädchen, dem vom Welt-. kinde Nichts eigen war, als elegante Manieren. Frau von Trécoeur lebte mit ihrem Manne in einer Region unerquicklicher Stürme, worin sie sich heimathlos und gleichsam erniedrigt fühlte. Er quälte sie mit seinen Gewissensbissen fast eben so sehr, als mit seinen Fehltritten. Mit Recht betrachtete er sie als einen Engel, weinte zu ihren Füßen, wenn er einen Verrath an ihr begangen, und klagte verzweifelt, daß er ihrer unwürdig, daß er das Opfer seines Temperamentes sei und in einem Jahrhundert ohne Treu und Glauben das Licht erblickt habe. Eines Tages drohte er, sich im Zimmer seiner Frau das Leben zu nehmen, wenn sie ihm nicht verzeihe; natürlich verzieh sie ihm. Diese ganze Dramatik peinigte Clotilden in ihrem entsagungsvollen Leben. Sie hätte ein stilleres Unglück, eines ohne Phrasen vorgezogen.
+
+Sämmtliche Freunde ihres Mannes hatten sich in sie verliebt und große Hoffnungen aus ihre Verlassenheit gebaut; aber treulose Männer schaffen nicht immer schuldige Frauen. Oft ist sogar das Gegentheil der Fall, so wenig ist diese arme Welt den Gesetzen der Logik unterworfen. Mit Einem Worte — Frau von Trécoeur blieb nach dem Tode ihres Mannes erschöpft und gebrochen, aber fleckenlos am Strande zurück.
+
+Aus dieser traurigen Verbindung war eine Tochter Namens Julia entsprossen, die ihr Vater trotz Clotildens Abwehr auf das Aeußerste verzogen hatte. Die Abgötterei des Herrn von Trécoeur für seine Tochter war bekannt, und die Welt verzieh ihm mit ihrer gewöhnlichen Schlaffheit des Urtheils gern seine schmähliche Lebensweise um dieses Verdienstes willen, das nicht immer ein solches ist. Es ist in der That nicht sehr schwer, seine Kinder zu lieben; man braucht nur kein Unmensch zu sein. Die Liebe zu ihnen ist an sich selbst keine Tugend: sie ist eine Leidenschaft, die, wie alle ihres Gleichen, gut oder böse wird, je nachdem man ihr Herr oder ihr Knecht ist. Es läßt sich sogar denken, daß es keine Leidenschaft giebt, die für das Gute oder das Böse fruchtbarer wäre, als diese.
+
+Julia schien großartig begabt; aber ihr glühendes und frühreifes Naturell hatte sich, Dank der väterlichen Erziehung, kreuz und quer entwickelt, wie in einem Urwalde. Sie war ein kleines, brünettes, blasses Geschöpf, geschmeidig, schlank, mit großen blauen Augen voll Feuer, krausem schwarzem Haar und herrlich geschwungenen Brauen. Ihr Benehmen war gewöhnlich zurückhaltend und hochfahrend; im Familienkreise legte sie aber diese majestätische Haltung ab, um aus dem Teppiche Rad zu schlagen. Sie erfand sich ihre Spiele selbst. Den Geschichtsunterricht übersetzte sie sich in kleine Dramen mit Volksreden, Dialogen, Musik und vor Allem mit Wagenrennen. Trotz ihrer ernsthaften Mienen hatte sie ihre Anwandlungen von Eulenspiegelei, und parodirte die Leute, die ihr mißfielen, auf das Grausamste.
+
+Die Gefühle mitleidiger Rührung, welche die Bekümmernisse ihrer Mutter dem jungen Herzen einflößten, kämpften seltsam mit der leidenschaftlichen Vorliebe, die sie ihrem Vater erwies. Oft sah sie ihre Mutter weinen; dann warf sie sich wie ein Knäuel zu ihren Füßen und blieb dort stundenlang stumm und regungslos, das feuchte Auge auf sie gerichtet, indem sie von Zeit zu Zeit eine Thräne von ihrer Wange aufsog. Niemals fragte sie, warum sie weinte. Offenbar hatte sie, wie viele Kinder, irgend ein Echo der häuslichen Schmerzen erfaßt. Ohne Zweifel durchschaute ihr lebhafter Verstand die. Vergehen ihres Vaters; aber sie betete diesen Vater an, den schönen, geistreichen, großherzigen, tollen Cavalier, sie war stolz darauf, seine Tochter zu sein ; sie zitterte vor Freude, wenn er sie an sein Herz zog. Ihn konnte sie weder richten, noch tadeln. Er war ein höheres Wesen. Sie begnügte sich, das sanfte, liebliche Geschöpf, das ihre Mutter und voll Leides war, nach ihren Kräften zu bedauern und zu trösten.
+
+Im Umgangskreise der Frau von Trécoeur galt Julia einfach als ein kleines Scheusal. Die „lieben Damen", wie sie Jene nannte, welche die Donnerstage ihrer Mutter zierten, erzählten einander entrüstet die Auftritte possenhafter Nachäffung, womit das Kind ihr Erscheinen und Verschwinden begleitete. Die Herren hielten sich für begünstigt, wenn sie nicht irgend einen seidenen Lappen auf dem Rücken mit hinwegtrugen. Dieß Alles machte Herrn von Trécoeur unendlichen Spaß. Wenn seine Tochter mit einem halben Dutzend Stühle eines jener olympischen Spiele aufführte, welche alle Piano's der Nachbarschaft verstimmten, rief er: Julia! Du machst nicht Lärm genug! Zerschlage eine Vase! — Und sie zerschlug eine Vase, worauf ihr Vater sie voll Entzücken küßte.
+
+Diese Art der Erziehung nahm einen ernsteren Charakter an, als das Kind heranwuchs und ein Mädchen wurde. Die Zärtlichkeit des Vaters erhielt einen Ton von Galanterie. Er nahm sie mit in den Park, zu den Rennen, ins Theater. Sie hatte keinen Einfall, dem er nicht zuvorkam, indem er ihn übertraf. Mit dreizehn Jahren besaß sie ihre eigenen Pferde, ihren Groom, einen Wagen mit ihrem Namenszuge. Bereits erkrankt, vielleicht im Gefühl des nahenden Todes, überschüttete der Unglückliche diese geliebte Tochter mit Pfändern seiner verhängnißvollen Zuneigung. Er erstickte so jeden Wunsch durch vorzeitige Uebersättigung, als hätte er ihr nur das Eine Verlangen nach der verbotenen Frucht übrig lassen wollen.
+
+Julia beweinte ihn mit rasender Leidenschaftlichkeit und widmete seinem Andenken einen glühenden Cultus. Sie hatte ein eigenes Zimmer, das sie mit Bildern ihres Vaters und mit tausend persönlichen Erinnerungszeichen füllte, die sie mit selbstgepflegten Blumen umgab.
+
+Wie die meisten Mädchen, die sich mit einem Verwandten verbinden, hatte Frau von Trécoeur sehr jung geheirathet. Sie war mit achtundzwanzig Jahren Wittwe, und ihre Mutter, Baronin Pers, die nicht allein noch lebte, sondern sogar zu den Lebendigsten gehörte, zögerte nicht lange, in zarter Weise auf das Passende einer zweiten Heirath hinzuweisen. Nachdem sie die praktischen, wirklich ganz verständigen Gründe erschöpft hatte, welche solchen Entschluß rathsam erscheinen ließen, ging die Baronin zu Gründen des Gefühls über. — Wirklich, meine arme Tochter, sagte sie, du hast bisher deinen Antheil an irdischem Glücke nicht gehabt. Ich möchte nichts Schlimmes über deinen Mann sagen, da er todt ist, aber, unter uns, er war ein Unthier — mein Gott! ganz köstlich zu Zeiten, das gebe ich dir zu — er hat es mir selbst angethan — wie alle diese Taugenichtse — aber sonst schauderhaft — schauderhaft! Nun ja! ich will gewiß nicht behaupten, daß die Ehe jemals ein Stand reiner Glückseligkeit ist — trotzdem ist sie immer noch das Beste was man bisher ausfindig gemacht hat, damit Leute von guter Art ihr Leben anständig genießen können. Du bist in der Blüte der Jahre — du bist eine angenehme, sehr angenehme Erscheinung — und, beiläufig gesagt, würdest du daran Nichts einbüßen, wenn du deine Röcke hinten etwas besser aufbauschtest, mit einer gehörigen Unterlage — denn du weißt ja nicht einmal mehr, was man trägt, du armes Schäfchen — Siehst du! nun ja! es ist ein Greuel — aber am Ende, was will man machen? Man darf nicht auffallen — Kurz, ich wollte nur sagen, daß du noch Alles besitzest was man braucht, und sogar mehr als man braucht, um einen Gatten zu fesseln — das heißt, wenn es welche gibt, die sich fesseln lassen, — was ich doch glauben möchte. — Man müßte übrigens an der Vorsehung verzweifeln, wenn sie uns nach all unsern Prüfungen nicht einige Entschädigung vorbehielte — es ist schon ein offenbarer Beweis ihrer Güte, daß du wieder voller wirst, mein armer Liebling! Küsse deine Mutter — Nun, wann werden wir diese hübsche Frau verheirathen?
+
+In den Schmeicheleien, welche die Baronin an ihre Tochter richtete, lag keine mütterliche Uebertreibung. Ganz Paris betrachtete sie mit den Augen ihrer Mutter. Nie war sie so anziehend erschienen, und doch war sie es stets in hohem Grade gewesen. Nach dem Frieden der Trauerzeit zeigte ihre Erscheinung die glänzende Frische einer schönen Frucht in voller Reife. Ihre schwarzen Augen voll schüchterner Zärtlichkeit, ihre reine, von prachtvollen, natürlichen Flechten umrahmte Stirne, ihre Schultern von rosigem Marmor, die eigenthümliche Anmuth einer jugendlichen und zugleich schönen, liebevollen und keuschen Matrone — dies Alles mit tadellosem Rufe und einer Rente von sechzigtausend Franken gepaart, mußte wohl Freier anlocken. In der That erhob sich deren eine Legion. Die Vernunft, selbst die öffentliche Meinung, welche ihrem Manne und ihr selbst Gerechtigkeit hatte widerfahren lassen, drängte zu einer zweiten Heirath. Ihre persönlichen Gefühle, so groß deren natürliche Zartheit auch war, boten kein Hinderniß, denn ihr Herz kannte nur Wahrheit. Sie war ihrem Manne treu gewesen, sie hatte diesem unseligen Gefährten ihrer Jugend bittere Thränen geweiht, aber er hatte ihre Zuneigung ermüdet und erschöpft, und ohne sich jemals dem anklagenden Nachrufe ihrer Mutter gegen Herrn von Trécoeur anzuschließen, empfand sie doch, daß ihr keine andere Pflicht gegen ihn geblieben war, als das Gebet.
+
+Dennoch blieb sie Monat um Monat Wittwe und fuhr fort, den Bitten der Baronin einen Widerstand entgegen zui setzen, dessen verborgene Ursache diese vergebens zu enträthseln versuchte. Eines Tages aber glaubte sie, auf der Spur zu sein. Gestehe mir die Wahrheit, sagte sie zu ihr. Du fürchtest Julia zu verletzen. Das wäre aber doch reiner Wahnsinn, meine Tochter. Du kannst nach dieser Seite hin kein ernstliches Bedenken hegen. Julia ist von Hause aus sehr reich und bedarf deines Vermögens nicht. In drei oder vier Jahren wird sie sich selbst verheirathen (beiläufig gesagt, wünsche ich ihrem Manne viel Vergnügen), und nun bedenke, in welch angenehmer Lage du dann sein wirst — O Himmel, soll es denn nie ein Ende nehmen? Erst die Noth mit dem Vater und jetzt mit der Tochter! — Ei, mein Gott, mag sie doch nach Herzenslust den Bildern und Sporen ihres Papa's Kapellen errichten, das ist ihre Sache; ich werde ihr darin wahrhaftig keine Concurrenz machen; aber sie soll uns wenigstens leben lassen! Wie, du könntest nicht über dich verfügen, ohne sie um Erlaubniß zu fragen? Ei, wenn du ihre Sklavin bist, liebes Kind, dann setze mich vor die Thüre; du könntest Nichts thun, was ihr angenehmer wäre, denn sie kann mich nicht riechen, deine Fräulein Tochter! — Und am Ende, ganz im Ernst, was kann es ihr schaden, wenn du dich wieder verheirathest? Ein Stiefvater ist keine Stiefmutter! Das macht einen großen Unterschied. Ihr Stiefvater wird liebenswürdig gegen sie sein — alle Männer werden liebenswürdig gegen sie sein — das prophezeie ich ihr! — sie kann sich völlig beruhigen! Nun, gieb es wenigstens zu, das ist's was dich zurückhält.
+
+Nein, Mutter, ich versichere dich, sagte Clotilde.
+
+Und ich versichere dich, es ist dennoch so, meine Tochter. Höre, willst du, daß ich mit Julia spreche und den Versuch mache, sie zur Vernunft zu bringen? —
+
+Ich gäbe ihr lieber die Ruthe, aber wenn es nicht anders ist — !
+
+Mein armes liebes Mütterchen, erwiderte Clotilde, muß ich dir Alles sagen? Sie kniete vor der Baronin nieder.
+
+Gewiß, mein Töchterchen, sage mir Alles — aber bringe mich nicht zum Weinen, ich bitte dich — ist das, was du mir zu sagen hast, sehr traurig?
+
+Nicht sehr heiter.
+
+Mein Gott! — Nun, sprich nur.
+
+Vor Allem, Mutter, gestehe ich dir, daß ich persönlich kein Bedenken haben würde, mich wieder zu ver-heirathen.
+
+Das glaube ich gern. — Warum auch? Das fehlte gerade noch!
+
+Was Julia betrifft, die ich vergöttere, die mich sehr liebt und auch dich lieb hat, was du auch sagen magst —
+
+Vom Gegentheil überzeugt, sagte die Baronin. Einerlei. Fahre fort.
+
+Was Julia betrifft, so habe ich mehr Vertrauen zu ihrem Verstande und zu ihrem guten Herzen, als du. Trotz der exaltirten Zärtlichkeit, die sie ihrem Vater bewahrt, bin ich überzeugt, daß sie meinen Entschluß begreifen und ehren würde und mich deßhalb nicht weniger lieben, namentlich wenn ihr Stiefvater ihr nicht persönlich zuwider wäre, denn du kennst ja die Heftigkeit ihrer Sympathieen und Antipathieen.
+
+Ob ich sie kenne! sagte die Baronin bitter. Nun, man muß dieser lieben Kleinen eine Liste all dieser Herren vorlegen, dann kann sie selbst für dich wählen.
+
+Das wäre unnütz, meine gute Mutter, sagte Clotilde. Die Hauptperson hat ihre Wahl getroffen, und ich bin überzeugt, daß Julia damit nicht unzufrieden wäre.
+
+Nun, wenn das ist, mein Liebling, so geht ja Alles von selbst!
+
+Ach nein. Ich muß dir etwas sagen, was mich tief beschämt: — der einzige Mann unter Allen, die wir kennen, welcher — der Einzige, welcher mir gefallen könnte, ist zugleich der Einzige, der mich nie geliebt hat.
+
+Dann ist es ein Vandale! das kann nur ein Vandale sein! — Nun, wer ist's?
+
+Ich sagte es dir ja, armes Mütterchen, der einzige unserer Freunde, der nicht in mich verliebt ist.
+
+Pah! wer denn? Dein Vetter Pierre?
+
+Nein — aber du streifst daran.
+
+Herr von Lucan! rief die Baronin. Der mußte es sein! Diese Perle! Mein Gott, liebe Kleine, wie unser Geschmack übereinstimmt! Er ist reizend, dein Lucan, ganz reizend. — Gieb mir einen Kuß. — Suche nicht weiter, nicht weiter; gerade das ist's, was wir brauchen!
+
+Aber, Mutter, er will mich ja nicht haben!
+
+Schön! Nun will er dich nicht! — was für Thorheiten! was weißt du davon? Hast du ihn etwa gefragt? Uebrigens ist das ganz unmöglich, liebe Kleine, — ihr seid von aller Ewigkeit her für einander geschaffen. Er ist liebenswürdig, sein, von gutem Ton, reich, geistvoll, Alles mit Einem Worte, Alles!
+
+Nur kein Anbeter, liebe Mutter.
+
+Die Baronin stritt von Neuem gegen eine so unglaubliche Unwahrscheinlichkeit, bis Clotilde ihr eine Reihe von Thatsachen und Einzelnheiten vorführte, welche keiner Illusion mehr Raum ließen. Die betroffene Mutter mußte sich in die schmerzliche Ueberzeugung ergeben, es existire wirklich im Weltall ein Mann von so schlechtem Geschmacke, daß er ihre Tochter nicht liebe, und daß dieser Mann unglücklicher Weise Herr von Lucan sei. Ties nachgrübelnd über dieses unerhörte Räthsel, dessen Lösung indessen nicht lange auf sich warten lassen sollte, kehrte sie in ihr Haus zurück.
+
+II.
+
+Georg Reno von Lucan war mit Pierre von Moras, dem Vetter Clotildens, eng befreundet. Beide waren in ihrer Kindheit und Jugend, auf Reisen und sogar im Felde Gefährten gewesen, denn als sie ein Zufall zur Zeit des Bürgerkrieges in die vereinigten Staaten führte, fanden sie die Gelegenheit günstig, die Feuertaufe zu empfangen. Während dieser fern vom Vaterlande brüderlich getheilten Kriegsgefahren hatte sich ihre Freundschaft noch tiefer befestigt. Diese Freundschaft war ohnehin schon längst von einer seltenen Innigkeit, Stärke und Zartheit. Sie schätzten einander gegenseitig sehr hoch, und hatten Ursache dazu. Uebrigens glichen sie sich in keiner Beziehung. Pierre von Moras war hoch gewachsen, blond wie ein Skandinavier, schön und stark wie ein Löwe, aber wie ein gutmüthiger Löwe. Lucan war brünett, feingebaut, elegant, ernst. In seinem stolzen, etwas düstern Blicke, seinem kühlen, leisen Ton, selbst in seinem Gange lag eine mit Ueberlegenheit gepaarte Anmuth, die beherrschte und bezauberte.
+
+In geistiger Hinsicht waren sie einander nicht weniger unähnlich.: der Eine war Lebemann, unbedingter und ruhiger Skeptiker, und hatte eine Tänzerin zur Geliebten, ohne sich viel aus ihr zu machen. Der Andere trotz seiner äußeren Ruhe stets erregt, romantisch, leidenschaftlich, beständig von Liede und Religionsfragen gequält. Nach der Rückkehr aus Amerika hatte Pierre von Moras den Freund bei seiner Cousine Clotilde eingeführt, und von diesem Augenblicke an gab es wenigstens zwei Punkte, worüber sie vollkommen einig waren: tiefe Achtung für Clotilden und tiefe Abneigung gegen ihren Mann. Indessen beurtheilte Jeder von ihnen Herrn von Trécoeur's Charakter und Betragen auf seine Weise. Für den Grafen Pierre war Trécoeur einfach ein schlimmer Geselle; für Herrn von Lucan war er ein Verbrecher!
+
+Warum Verbrecher? sagte Pierre. Ist es seine Schuld, daß er mit allen Flammen der Hölle in Mark und Bein geboren wurde? Ich gebe zu, daß ich ihn jedesmal todtschlagen möchte, wenn ich Clotildens rothe Augen sehe; aber ich würde dabei nicht zorniger sein, als beim Zertreten einer Schlange. Wenn dieser Mann nun einmal so geschaffen ist!
+
+Du machst mich schaudern, erwiderte Lucan. Mit solchem Grundsatze wird kurzweg Verdienst, Wille, Freiheit, mit Einem Worte, die ganze sittliche Welt vernichtet. Wenn wir nicht, wenigstens in hohem Maße, Herren unserer Leidenschaften sind, wenn unsere Leidenschaften uns verhängnißvoll beherrschen, wenn ein Mann nach dem Belieben seiner Instincte nothwendiger Weise gut oder böse, verrätherisch oder treu, ein Ehrenmann oder ein Schurke ist, dann sage mir doch, ich bitte dich, weßhalb du mich mit deiner Achtung und Freundschaft beehrst? Ich habe kein größeres Anrecht darauf, als der Nächste Beste, als Trécoeur selbst.
+
+Vergebung, mein Freund, sagte Pierre ernsthaft: in der Pflanzenwelt ziehe ich eine Rose der Distel vor; in der moralischen Welt ziehe ich dich einem Trécoeur vor. Du bist ein Ehrenmann; daran erfreue ich mich, und habe Vortheil davon.
+
+O, Bester, du bist vollständig im Irrthum, entgegnete Lucan. Ich ward im Gegentheil mit abscheulichen Instincten, mit dem Keime zu jedem Laster geboren.
+
+Wie Sokrates.
+
+Richtig, wie Sokrates. Und hätte mir nicht mein Vater zur rechten Zeit die Ruthe gegeben, und wäre meine Mutter keine Heilige gewesen, hätte ich schließlich nicht selbst sehr energisch meinen Willen zum Diener meines Gewissens gemacht, so wäre ich ein Bösewicht ohne Treu und Glauben.
+
+Es bürgt aber Nichts dafür, daß du nicht eines Tages zum Bösewichte wirst, lieber Freund. Es lebt Keiner, der nicht zur gegebenen Stunde ein Bösewicht werden könnte. Alles hängt von der Stärke der Versuchung ab. Du selbst, trotz all deiner Instincte der Ehre und Würde, bist du ganz sicher, nie einer Versuchung zu begegnen, welche über dieselben Herrschaft gewinnt? Kannst du dir zum Beispiel nicht den Fall denken, daß du ein Weib bis zu dem Grade liebst, um ein Verbrechen zu begehen?
+
+Nein, sagte Lucan; und du?
+
+Ich — ich habe dabei kein Verdienst — ich habe keine Leidenschaften; — ich bin trostlos darüber, aber ich habe keine. Ich bin ganz exemplarisch geboren. Du erinnerst dich an meine Kindheit: ich war ein Musterknabe. Jetzt bin ich ein musterhafter Mann, das ist der ganze Unterschied — und das macht mir gar keine Mühe. Wollen wir zu Clotilden gehen?
+
+Gehen wir!
+
+Und sie gingen zu Clotilden, welche der Freundschaft dieser beiden wackern Menschen durchaus würdig war. Sie wurden dort mit ausgezeichneter Rücksicht empfangen, sogar von Fräulein Julia, welche dem Einfluß dieser bevorzugten Naturen bis zu einem gewissen Grade unterworfen schien. Uebrigens lag in der Haltung und Ausdrucksweise Beider eine vollendete Eleganz, welche offenbar den feinen Geschmack und die Künstlerinstincte des Kindes befriedigte. Während der ersten Zeit ihrer Trauer mischte sich eine gewisse Wildheit in Julia's Stimmung; wenn ihre Mutter Besuch empfing, verließ sie hastig den Salon, um sich in ihr Zimmer einzuschließen, nicht ohne den Ueberlästigen hochmüthiges Mißfallen an den Tag zu legen. Vetter Pierre und sein Freund genossen allein den Vorzug, gut empfangen zu werden; sie hatte sogar die Gnade, sich aus ihrem Zimmer in das ihrer Mutter zu begeben, wenn sie Beide anwesend wußte.
+
+Es gab also für Clotilden gute Gründe zu der Annahme, daß ihre Vorliebe für Herrn von Lucan den Beifall ihrer Tochter gewinnen würde; leider noch bessere, um zu bezweifeln, daß Herrn von Lucan's Absichten mit den ihrigen übereinstimmten. In der That hatte er sich ihr gegenüber nicht nur allezeit in den Grenzen der zurückhaltendsten Freundschaft bewegt, sondern diese Zurückhaltung noch fühlbar gesteigert, seit sie Wittwe geworden. Lucan legte immer weitere Zeiträume zwischen seine Besuche; er schien sogar mit besonderer Sorgfalt jede Gelegenheit des Alleinseins mit Clotilden zu vermeiden, als hätte er die geheimen Empfindungen der jungen Frau errathen und sei darauf bedacht, sie zu entmuthigen. Dieß waren die leider nur allzu bezeichnenden Symptome, welche Clotilde ihrer Mutter vertraut hatte.
+
+An demselben Tage, an welchem die Baronin diese peinlichen Aufklärungen erhielt, fand zwischen den beiden Freunden eine Unterredung über das gleiche Thema statt. Der Graf von Moras und George von Lucan hatten des Morgens einen gemeinschaftlichen Spaziergang in den Park gemacht, und Lucan war schweigsamer als sonst gewesen. Im Augenblick, als Beide auseinander gehen wollten, sagte er: à propos, Pierre, es ist mir unbehaglich — ich werde reisen.
+
+Reisen ! wohin denn?
+
+Ich gehe nach Schweden. Ich habe immer Lust gehabt, Schweden einmal zu sehen.
+
+Wie sonderbar! — Bleibst du lange aus?
+
+Zwei bis drei Monate.
+
+Wann reisest du ab?
+
+Morgen.
+
+Allein?
+
+Ganz allein. Ich treffe dich heute Abend im Club, nicht wahr?
+
+Die seltsame Zurückhaltung dieses Gesprächs hinterließ im Geiste des Herrn von Moras ein Gefühl von Staunen und Unruhe. Er konnte es nicht aushalten, und zwei Stunden später war er bei Lucan. Beim Eintreten sah er Reisevorbereitungen. Lucan schrieb in seinem Cabinet.
+
+Höre Bester, sagte der Graf, wenn ich zudringlich bin, so sage mir's ehrlich; aber diese übereilte Reise hat keinen Sinn — Im Ernst, was giebt es? Willst du dich etwa jenseits der Grenze schlagen?
+
+Pah! — dann würde ich dich mitnehmen, das weißt du doch!
+
+Eine Frau also?
+
+Ja, sagte Lucan trocken.
+
+Entschuldige meine Zudringlichkeit, und adieu.
+
+Habe ich dich verletzt, lieber Freund? fragte Lucan, indem er ihn zurückhielt.
+
+Ja, sagte der Graf. Ich verlange gewiß nicht, in deine Geheimnisse einzudringen, — aber ich bin außer Stande, den Ton von Zwang, fast von Feindseligkeit zu begreifen, womit du mir hinsichtlich dieser Reise antwortest. Uebrigens ist dies nicht das erste Zeichen solcher Art, welches mich betrübt und betroffen macht: seit einiger Zeit bist du offenbar mir gegenüber verlegen; es sieht aus, als wäre ich dir lästig, als genirte dich unsere Freundschaft — und der grausame Gedanke erfaßt mich, daß diese Reise nur eine Form sei, ihr ein Ziel zu setzen.
+
+Großer Gott! murmelte Lucan. — Nun wohl! fuhr er mit etwas bewegter Stimme fort, ich muß dir also die Wahrheit sagen. Ich hoffte, du würdest sie errathen — es lag so nahe — deine Cousine Clotilde ist nun bald zwei Jahre Wittwe — dies ist, so viel ich weiß, die durch die Sitte geheiligte Frist — Ich kenne deine Gefühle, du kannst dich jetzt mit ihr vermählen und thust daran überaus Recht. Nichts erscheint mir richtiger, natürlicher, würdiger für euch Beide. — Ich versichere dich, daß meine Freundschaft dir treu und ungetheilt bleibt; aber ich bitte dich, es gut zu heißen, wenn ich mich für einige Zeit entferne. Das ist Alles.
+
+Herr von Moras schien den Sinn dieser Rede nur mit unglaublicher Mühe zu fassen; er stand, nachdem Lucan aufgehört hatte, zu sprechen, einige Secunden mit erstaunter Miene und gespanntem Blick, als suche er das Wort eines Räthsels, dann erhob er sich rasch und ergriff Lucan's beide Hände: Ah! das ist hübsch! sagte er mit gerührtem Ernst — und, nachdem er ihm von Neuem herzlich die Hand gedrückt, fuhr er heiter fort : Wenn du übrigens in Schweden bleiben willst, bis ich mit Clotilden verheirathet bin, dann kannst du dich dort anbauen und sogar Wurzel schlagen, denn ich schwöre dir, daß du lange dort bleiben wirst!
+
+Wäre es möglich, daß du — sie nicht liebtest? fragte Lucan halblaut.
+
+Ich liebe sie im Gegentheil ungemein, ich schätze und bewundere sie — aber sie ist für mich eine Schwester, einzig nur eine Schwester. — Ganz köstlich ist es aber, mein Bester, daß es immer mein Traum gewesen ist, dich und Clotilde mit einander zu verbinden; nur leider erschienst du mir so kalt, so gar nicht bemüht um sie, so spröde, namentlich in letzter Zeit — Mein Gott, Georg, wie bleich du geworden bist!
+
+Der Erfolg dieser Unterredung war, daß sich Herr von Lucan, statt nach Schweden abzureisen, einige Augenblicke später zur Baronin Pers begab, der er seine Wünsche darlegte, und die, während sie ihn anhörte, der Spielball eines zauberischen Traumes zu sein wähnte. Doch barg sich unter ihrem flatterhaften Wesen ein zu lebhaftes Gefühl der eigenen Würde und der ihrer Tochter, als daß sie die Freude, die sie fast erstickte, vor Herrn von Lucan zum Ausbruch gelangen ließ. So sehr sie auch dieses Ideal von Schwiegersohn sofort an ihr Herz zu drücken wünschte, vertagte sie dennoch diese Befriedigung und begnügte sich, ihm ihre persönliche Sympathie auszusprechen. Uebrigens schloß sie sich Herrn von Lucan's natürlicher Ungeduld in so weit an, daß sie ihm rieth, noch denselben Abend Frau von Trécoeur zu besuchen, deren persönliche Gefühle ihr unbekannt wären, die aber jedenfalls den beabsichtigten Schritt mit der Achtung und Rücksicht aufnehmen würde, welche einem Manne von seinem Verdienst gebührten. Sobald die Baronin allein war, ergoß sie sich in einem von Thränen bethauten Selbstgespräch ; übrigens machte sie sich ein ganz auserlesenes kleines mütterliches Fest daraus, Clotilden Nichts zu sagen und ihr die ganze Süßigkeit dieser Ueberraschung zu gönnen.
+
+Das Herz der Frauen ist unendlich zarter organisirt, als das unsrige. Die unablässige Uebung, worin sie es erhalten, entwickelt Fähigkeiten von solcher Feinheit, solchem Scharfsinn, daß der trockene Verstand denselben niemals gleich kommt; dies erklärt auch, weßhalb ihre Ahnungen zutreffender und weniger selten sind, als die unsrigen. Es scheint, daß ihre stets gespannte und vibrirende Empfindung durch geheimnißvolle Strömungen benachrichtigt wird, und daß sie früher erräth als begreift. Als Herr von Lucan gemeldet wurde, durchblitzte sie gleichsam solch ein geheimer elektrischer Strom, und trotz aller Einwendungen des Gegentheils, die sich ihres Geistes bemächtigten, empfand sie, daß sie geliebt wurde und daß er kam, ihr das zu sagen. Sie ließ sich in ihren großen Lehnstuhl nieder, indem ihre beiden Hände das seidene Kleid zusammenfaßten, mit der Bewegung eines Vogels, der mit den Flügeln schlägt.
+
+Die sichtliche Verwirrung Lucan's vollendete ihre Ueberzeugung und ihre Wonne. Bei Männern dieser Art, voll mächtiger Leidenschaft, aber streng in sich gehalten, an Selbstbeherrschung gewöhnt, ruhig und unerschrocken, ist Verwirrung erschreckend oder bezaubernd.
+
+Nachdem er überflüssiger Weise geäußert, daß der Schritt, den er zu thun dachte, ein ungewöhnlicher Schritt sei, fuhr er fort: Gnädige Frau, die Frage, welche ich an Sie richten werde, bedarf zur Beantwortung der Ueberlegung, das weiß ich; — auch möchte ich Sie anflehen, mir nicht schon heute zu antworten, um so mehr, als es mir allzu peinlich wäre, eine ungünstige Entscheidung aus Ihrem eigenen Munde zu vernehmen.
+
+Mein Gott! Herr von Lucan — sagte Clotilde halblaut.
+
+Ihre Frau Mutter, welche ich die Ehre hatte im Lause des Tages zu sprechen, gnädige Frau, hat mich — bis zu einem gewissen Grade gütigst ermuthigt — zu hoffen, daß Sie mir Ihre Achtung schenken — daß Sie wenigstens nicht gegen mich eingenommen seien —
+
+Was mich betrifft, gnädige Frau, so — Mein Gott, mit Einem Worte, ich liebe Sie, und träume auf Erden kein größeres Glück als das, welches Sie mir gewähren könnten. Sie kennen mich seit langer Zeit. Ich habe Ihnen Nichts über mich zu sagen. — Und nun werde ich warten. —
+
+Sie hielt ihn durch ein Zeichen zurück und versuchte zu sprechen, aber ihre Augen verschleierten sich unter Thränen. Sie barg den Kopf in ihre Hände und murmelte : Vergebung! ich bin so wenig glücklich gewesen. Ich weiß kaum, was das ist!
+
+Lucan kniete still vor ihr nieder, und als ihre Blicke sich begegneten, füllten sich ihre beiden Herzen plötzlich wie zwei Becher.
+
+Sprechen Sie, mein Freund, fuhr sie fort. Sagen Sie mir noch einmal, daß Sie mich lieben! Ich war so entfernt davon, es zu glauben. — Und weßhalb? — und seit wann?
+
+Er erklärte ihr seinen Irrthum, seinen schmerzlichen Kampf zwischen der Liebe zu ihr und der Freundschaft für Pierre.
+
+Der arme Pierre, sagte Clotilde, — ein so trefflicher Mensch! Aber wahrhaftig — nicht entfernt —
+
+Dann lächelte sie über seine Schilderung der Herzensangst, des tödtlichen Zweifels, welcher ihn in jenem Augenblicke ergriffen hatte, wo er Entscheidung über sein Schicksal von ihr forderte; sie war ihm in diesem Moment mehr als je wie ein bezauberndes, geheiligtes Wesen erschienen, so hoch über ihm, daß sein Anspruch, von ihr geliebt zu sein, ihr Gatte zu werden, ihm plötzlich wie eine Art frevelnder Thorheit vorgekommen war.
+
+O Gott, sagte sie, welche Vorstellung machen Sie sich denn von mir? — Das erschreckt mich! Ich glaubte im Gegentheil, zu einfach, zu schwunglos für Sie zu sein; ich sagte mir, daß Sie Hang zu romantischen Leidenschaften, zu großartigen Abenteuern hegen — Sie sehen ein wenig darnach aus, auch hört man Aehnliches über Sie — und ich bin so wenig eine Frau solcher Art!
+
+In Folge dieser leisen Aufforderung theilte er ihr Einiges über seine — im alltäglichen Sinne — stürmische Vergangenheit mit, die ihm Nichts zurückgelassen, als Enttäuschungen und Ueberdruß. Doch war ihm, ehe er ihr begegnete, nie der Gedanke gekommen, sich zu verheirathen; in Betreff der Liebe wie der Freundschaft war seine Phantasie von einem allerdings etwas romantischen Ideale erfüllt, dessen Verwirklichung er von der Ehe nicht erhoffte. Er hätte es freilich in großartigen Abenteuern suchen können, wie sie gesagt; aber er liebte Ordnung und Würde und hatte das Unglück, nicht im Kriege mit seinem Gewissen leben zu können. So war seine Jugend gewesen. Sie fragen mich, warum ich Sie liebe? fuhr er mit Hingebung fort: ich liebe Sie, weil Sie allein zwei Empfindungen meines Herzens zu vereinigen verstanden, die sich stets unter grausamen Kämpfen um seinen Besitz gestritten, Leidenschaft und Ehrenhaftigkeit. — Ehe ich Sie kannte, hatte ich nie einer dieser Empfindungen nachgegeben, ohne durch die andere namenlos elend zu sein. Beide schienen mir stets unvereinbar. Nie gab ich mich der Leidenschaft ohne Gewissensbisse hin; nie widerstand ich ihr ohne Reue. Stark oder schwach, war ich immer unglücklich und gequält — Sie allein ließen mich begreifen, daß man mit der ganzen Glut und der ganzen Würde seiner Seele zugleich lieben kann, und ich wählte Sie, weil Sie liebevoll und wahr, weil Sie schön und rein sind — Pflicht und Reiz, Liebe und Achtung, Rausch und Ruhe zugleich. — Deßhalb liebe ich Sie — solch ein Weib, solch ein Engel sind Sie für mich, Clotilde!
+
+Sie athmete seine Worte ein, halb vorgebeugt, himmlisches Staunen im Auge.
+
+Aber es scheint — wer hätte es nicht erfahren? — daß menschliches Glück gewisse Gipfel nicht erreichen kann, ohne den Blitzstrahl herabzurufen. — Inmitten ihrer Entzückung fuhr Clotilde plötzlich zusammen und empor. Sie hatte einen erstickten Schrei gehört, dem das dumpfe Geräusch eines Falles folgte. Sie eilte durch das Zimmer, öffnete die Thüre und sah zwei Schritte vor sich im anstoßenden Salon Julia auf dem Fußboden ausgestreckt.
+
+Es ward ihr klar, daß das Kind, im Begriff einzutreten, einige der letzten Worte aufgefangen, und daß der Gedanke, den Platz ihres Vaters von einem Andern eingenommen zu sehen, die junge, leidenschaftliche, hiervon ganz unerwartet betroffene Seele bis in den Grund erschüttert hatte. Julia wurde in ihr Zimmer getragen; Clotilde folgte dahin und verlangte mit ihr allein zu bleiben. Während sie ihr unter Küssen und Liebkosungen jede Sorgfalt widmete, erwartete sie nicht ohne furchtbare Herzensangst den ersten Blick ihrer Tochter. Dieser Blick richtete sich Anfangs wie zerstört, dann mit einer Art scheuer Starrheit auf sie; das Kind stieß sie leise zurück; es sammelte sich, und je mehr sich in seinem Auge Klarheit des Gedankens ausprägte, je deutlicher konnte die Mutter darin einen heftigen Kampf widersprechender Gefühle lesen — Ich bitte dich, ich beschwöre dich, mein Töchterchen, flüsterte Clotilde, deren Thränen Tropfen um Tropfen auf das schöne blasse Gesicht des Kindes fielen. — Plötzlich umfaßte Julia ihren Hals, zog sie an sich und küßte sie wild: Du hast mir sehr weh gethan, sagte sie, o, sehr weh! mehr als du glauben kannst — aber ich habe dich sehr lieb — sehr lieb! ich will dich lieben — ich will! ich will es immer thun — ich versichere dich! — Sie brach in Schluchzen aus, und Beide weinten lange, fest an einander geschmiegt.
+
+Herr von Lucan hatte geglaubt, nach der Baronin Pers schicken zu müssen, welcher er jetzt im Salon Gesellschaft leistete. Als die Baronin erfuhr, was vorgegangen war, äußerte sie mehr Aufregung als Ueber-raschung: Mein Gott! das habe ich erwartet, lieber Herr von Lucan! Ich hatte Ihnen Nichts davon gesagt, weil wir noch nicht so weit waren — aber ich war vollkommen darauf gefaßt! Dieses Kind wird meine Tochter umbringen. Sie wird zu Ende führen, was ihr Vater so gut angefangen hat — denn es ist ein reines Wunder, daß meine Tochter, nach Allem was sie gelitten, sich so erholt hat, wie wir sie jetzt sehen! — Ich lasse sie beisammen — ich gehe nicht hin — nein, ich gehe nicht hin. — Einmal fürchte ich, meine Tochter sieht es nicht gern — und dann würde ich mich zu irgend Etwas hinreißen lassen, das außer meiner Art wäre, ganz sicher!
+
+Wie alt ist denn Fräulein Julia? fragte Lucan, der unter diesen peinlichen Umständen seine ruhige Höflichkeit bewahrte.
+
+Nun, sie wird bald fünfzehn Jahre alt, — und beiläufig gesagt, ist dies kein Unglück, denn, unter uns, so kann man am Ende hoffen, daß man sie in einem oder zwei Jahren auf anständige Weise los wird. — O! sie wird sich leicht verheirathen, sehr leicht, davon dürfen Sie überzeugt sein — Erstens ist sie reich, und dann, am Ende, nun ja — sie ist ein hübsches Ungeheuer. — Man kann das nicht leugnen, und es fehlt nicht an Männern, welche diese Sorte lieben!
+
+Endlich kam Clotilde zurück. So groß ihre innere Bewegung auch sein mochte, sie erschien ruhig, nichts Theatralisches lag in ihrem Wesen. Mit leiser, sanfter Stimme beantwortete sie einfach die fieberhaften Fragen ihrer Mutter: sie blieb überzeugt, daß dieser Unfall nicht vorgekommen sein würde, wenn sie Julien das Ereigniß, weiches ein Zufall ihr plötzlich ausgedeckt, mit einiger Vorsicht selbst hätte mittheilen können. Mit trübem Lächeln sagte sie dann zu Herrn von Lucan: Diese Familiensorgen sind schwerlich von Ihnen vorgesehen worden, und ich würde es ganz natürlich finden, wenn Ihre Pläne dadurch verändert würden.
+
+Eine lebhafte Angst malte sich in Lucan's Zügen. — Wenn Sie Ihre Freiheit von mir zurückfordern, sagte er, so muß ich Ihnen gehorchen; hat aber nur Ihr Zartgefühl gesprochen, so versichere ich Sie, daß Sie mir noch theurer geworden sind, seit ich Sie um meinetwillen leiden, in so würdiger Weise leiden sehe.
+
+Sie streckte ihm ihre Hand entgegen, die er ergriff, indem er sich auf sie herabneigte.
+
+Ich will Ihre Tochter so lieb haben, daß sie mir verzeihen wird, sagte er.
+
+Ja, das hoffe ich, erwiderte Clotilde; indessen will sie für einige Monate in ein Kloster gehen, und ich habe es ihr erlaubt.
+
+Ihre Stimme zitterte, und ihre Augen wurden feucht.
+
+Vergebung, Herr von Lucan, fuhr sie fort, ich habe noch kein Recht, Ihnen so viel Antheil an meinen Kümmernissen aufzubürden. — Darf ich Sie bitten, mich mit meiner Mutter allein zu lassen?
+
+Lucan murmelte einige ehrerbietige Worte und zog sich zurück. Es war wirklich, wie er gesagt hatte, Clotilde war ihm theurer als je. Noch nichts hatte ihm einen so hohen Begriff vom inneren Werthe dieser jungen Iran gegeben, als ihre Haltung während dieses traurigen Abends. Im vollen Aufschwung des Glückes getroffen, war sie ohne Schrei, ohne Klage niedergesunken, indem sie ihre Wunde verschleierte: sie hatte vor ihm jene heilige Scheu des Schmerzes bewiesen, die ihrem Geschlechte so selten eigen ist. Er wußte ihr dafür um so mehr Dank, als er tiefe Abneigung gegen jene pathetischen und stürmischen Kundgebungen empfand, zu welchen die meisten Frauen begierig jede Gelegenheit ergreifen, wenn sie nicht gar vorziehen, dieselbe herbeizuführen.
+
+III.
+
+Herr von Lucan war seit mehreren Monaten mit Clotilde verheirathet, als das Gerücht sich in der Welt verbreitete, Fräulein von Trécoeur, das bekannte eingefleischte Teufelchen, würde in dem Kloster des Faubourg Saint-Germain, wohin sie sich einige Zeit vor der Vermählung ihrer Mutter zurückgezogen, den Schleier nehmen. Dieses Gerücht war begründet. Julia hatte anfangs die Disciplin und die Regeln, welchen sich schon die bloßen Pensionärinnen der Schwesterschaft unterwerfen mußten, schwer ertragen; dann wurde sie nach und nach von einer Glut der Frömmigkeit ergriffen, deren Uebermaß man zu dämpfen genöthigt war. Sie hatte ihre Mutter angefleht, dem unwiderstehlichen Berufe, den sie für das Klosterleben empfinde, kein Hinderniß in den Weg zu legen, und Clotilde hatte ihr mit Mühe das Versprechen abgewonnen, ihren Entschluß bis zur Vollendung des sechzehnten Jahres zu verschieben.
+
+Das Verhältniß der Frau von Lucan zu ihrer Tochter war seit ihrer Verheirathung seltsamer Art. Sie besuchte Julia fast täglich, und diese bewies ihr stets eine lebhafte Zärtlichkeit; aber in zwei Punkten, und zwar in den zartesten, war das junge Mädchen unerbittlich geblieben: sie hatte sich nie dazu verstanden, in das mütterliche Haus zurückzukehren, noch den Gatten ihrer Mutter zu empfangen. Es war sogar eine lange Zeit hingegangen, ohne daß sie die geringste Anspielung auf Clotildens veränderte Lage äußerte, die sie zu ignoriren sich den Anschein gab. Eines Tages faßte sie aber, im Gefühl des unerträglichen Zwanges solcher Zurückhaltung, endlich ihren Entschluß, heftete den funkelnden Blick auf ihre Mutter und sagte: — Nun, bist du wenigstens glücklich?
+
+Wie soll ich es sein, antwortete Clotilde, während du Den hassest, den ich liebe?
+
+Ich hasse Niemand, versetzte Julia trocken. Wie geht es ihm, deinem Manne?
+
+Von diesem Tage an erkundigte sie sich täglich im Tone gleichgültiger Höflichkeit nach Herrn von Lucan; doch sprach sie den Namen des Mannes, der den Platz ihres Vaters eingenommen, nie ohne Zögern und sichtliches Unbehagen aus.
+
+Inzwischen war sie sechzehn Jahre alt geworden. Ihre Mutter hatte ein bindendes Versprechen gegeben. Julia konnte von nun an frei ihrem Berufe folgen und bereitete sich mit einer feurigen Ungeduld dazu vor, von welcher das ganze Kloster erbaut war. Als Frau von Lucan eines Morgens die Aengste, die ihr während dieser letzten Tage des Aufschubs das Herz beklemmten, gegen ihren Mann und ihre Mutter aussprach, sagte die Baronin: Was mich betrifft, liebe Tochter, so gestehe ich dir, daß ich den Augenblick, welchen du fürchtest, von ganzer Seele herbeisehne; — dein Leben seit deiner Verheirathung hat ja gar nichts Menschliches mehr; die Hauptqual aber ist der Kampf, den du mit der Hartnäckigkeit dieses Kindes führst. — Nun denn! ist sie erst eine Nonne, dann hat der Kampf ein Ende, es wird dir leichter ums Herz werden, und bedenke nur, daß ihr in Wirklichkeit nicht mehr getrennt seid, als bisher, da dort keine Clausur besteht; — was mich betrifft , so wäre mir lieber, sie bestünde; allein es ist nun einmal nicht der Fall. — Und dann, warum sich einem Berufe widersetzen, in dem ich wahrhaftig eine höhere Hand erkenne? Im Interesse des Kindes selbst solltest du dir zu dem Entschluß Glück wünschen, den sie gefaßt. — Ich frage deinen Mann — sagen Sie selbst, Lieber, was man von einer solchen Natur zu erwarten hätte, wenn Sie erst einmal in die Welt losgelassen würde? Welches Unheil würde sie da anrichten! — Sie wissen, was für einen Kopf sie hat — ein Vulkan! Und, wohlgemerkt, mein Freund, sie ist jetzt eine wahre Odaliske. — Sie haben sie lange nicht mehr gesehen; Sie können sich nicht vorstellen, wie sie sich entwickelt hat! — Ich, die ich zweimal in der Woche diesen Genuß habe, versichere Sie, daß sie eine wahre Odaliske ist, und dabei gekleidet wie eine Göttin. — Uebrigens ist sie so gut gewachsen, daß sie weiter gar nichts nöthig hat — werfen Sie ihr irgend einen Vorhang auf gut Glück über den Leib, so wird sie darin aussehen, als käme sie aus Worth's Magazin! — Ei, fragen Sie nur einmal Pierre, was er von ihr hält — er wird mit ihrer Gnade beehrt!
+
+Herr von Moras, der eben eintrat, theilte wirklich mit einer sehr kleinen Anzahl von Hausfreunden das Vorrecht, Clotilden zuweilen nach Julia's Kloster begleiten zu dürfen.
+
+Nun, mein guter Pierre, fuhr die Baronin fort, wir sprachen von Julia, und ich sagte zu meiner Tochter und zu meinem Schwiegersohn, es sei ein großes Glück, daß sie eine Heilige werden wolle, denn sonst würde sie ganz Paris in Flammen setzen.
+
+Weßhalb? fragte der Graf.
+
+Weil sie schön ist wie die Sünde!
+
+Ohne Zweifel, sie ist sehr hübsch, sagte der Graf ziemlich kühl.
+
+Die Baronin ging mit Clotilden aus, einige Besorgungen zu machen, und Herr von Moras blieb mit Lucan allein. — Es kommt mir wirklich vor, begann er, als wäre man recht hart gegen diese arme Julia.
+
+Wie so?
+
+Ihre Großmutter spricht von ihr wie von einem verlorenen Geschöpf! Und was kann man ihr am Ende vorwerfen? Den Cultus, den sie mit dem Andenken ihres Vaters treibt? Er ist übertrieben, ich gebe es zu; aber kindliche Liebe ist kein Laster, so viel ich weiß, wenn sie auch das Maß überschreitet. Ihre Gefühle sind exaltirt; was thut das, wenn sie großherzig sind? Ist das ein Grund, sie der Unterwelt zu weihen, sie in ein Verließ zu stecken?
+
+Aber du bist sonderbar, lieber Freund, wahrhaftig, sagte Lucan. Was fällt dir nur ein? Wen beschuldigst du? Du weißt ja, daß Julia ganz nach ihrem eigenen Willen Nonne wird, daß ihre Mutter trostlos darüber ist und es an Nichts fehlen ließ, sie davon abzubringen. Was mich betrifft, so habe ich keinerlei Ursache, sie zu lieben: sie hat mir großen Kummer bereitet und thut es noch; aber du weißt ja wohl, daß ich bereit war, sie als Tochter aufzunehmen, wenn sie sich herbeigelassen hätte, zu uns zurückzukehren.
+
+O, ich klage weder ihre Mutter an, noch dich, nein, ich ärgere mich nur über die Baronin; sie ist abgeschmackt, sie ist unnatürlich! Julia ist am Ende doch ihre Enkelin, und sie jubelt, jubelt geradezu bei dem Gedanken, daß das Kind Nonne wird!
+
+Auf mein Wort, ich erkläre dir, daß ich sehr dazu aufgelegt bin, gleichfalls zu jubeln. Die Lage der Dinge ist für Clotilden allzu peinlich; man muß ein Ende machen, und da ich keine andere Lösung sehe —
+
+Bitte um Entschuldigung, es gäbe wohl noch eine.
+
+Und welche?
+
+Sie zu verheirathen.
+
+Vortrefflich! Aeußerst wahrscheinlich! Und mit Wem?
+
+Der Graf näherte sich Lucan, sah ihm gerade ins Gesicht und sagte verlegen lächelnd: Mit mir.
+
+Sage das noch einmal! rief Lucan.
+
+Du siehst, Bester, daß ich über und über roth geworden bin, fuhr der Graf fort; schone mich also. Ich wollte längst über diese zarte Frage mit dir sprechen, aber es fehlte mir an Muth; da ich ihn endlich gefunden habe, mußt du mir ihn nicht nehmen.
+
+Lieber Freund, sagte Lucan, laß mich nur erst zu mir kommen, denn ich falle aus den Wolken. Wie? du hast dich in Julia verliebt?
+
+Bis über die Ohren, mein Freund.
+
+Nein, dahinter steckt etwas, du hast dieses Mittel ausfindig gemacht, sie uns zu nähern, du willst dich für die Ruhe der Familie opfern.
+
+Ich schwöre dir, daß ich ganz und gar nicht an die Ruhe der Familie denke, sondern einzig an die meinige, die sehr gestört ist, denn ich liebe dieses Kind mit einer Heftigkeit der Empfindung, die ich nie gekannt habe. Wenn sie nicht die Meine wird, so werde ich mich in meinem Leben nicht darüber trösten.
+
+So weit ist es gekommen? rief Lucan verblüfft.
+
+Die Sache ist sehr schlimm, mein Bester, erwiderte Herr von Moras. Ich bin geradezu wie behext; wenn sie mich ansieht, wenn ich ihre Hand berühre, wenn ihr Kleid mich streift, fühle ich ein Rieseln in allen meinen Adern. Ich hatte von Aufregungen dieser Art wohl gehört, aber nie dergleichen empfunden. Ich gestehe dir, daß sie mich entzücken; zugleich bringen sie mich aber in Verzweiflung, denn ich kann mir nicht verhehlen, daß tausend Möglichkeiten für einen unglücklichen Ausgang dieser Leidenschaft vorhanden sind, und es scheint mir wirklich, daß ich darüber trauern würde, so lange mein Herz schlägt.
+
+Welch seltsame Fügung! sagte Lucan, dessen ganzer Ernst zurückgekehrt war. Dies ist sehr ernsthaft, sehr bedenklich. — Er schritt durch das Zimmer, versenkt in Betrachtungen, die ziemlich düsterer Art zu sein schienen. — Kennt Julia deine Gefühle? fragte er plötzlich.
+
+Ganz gewiß nicht. Ich würde mir nie erlauben, sie damit bekannt zu machen, ohne mit dir Rücksprache genommen zu haben. Willst du mir die Freundschaft erweisen, mein Vermittler bei ihrer Mutter zu sein?
+
+Nun, — ja — recht gerne, sagte Lucan mit einem gewissen Zögern, das seinem Freunde nicht entging.
+
+Du hältst es für überflüssig, nicht wahr? sagte der Graf mit gezwungenem Lächeln.
+
+Ueberflüssig — weßhalb?
+
+Erstens ist es sehr spät.
+
+Es ist etwas spät, ohne Zweifel. Julia ist allerdings gebunden; aber ich habe stets einiges Mißtrauen in ihren Beruf gesetzt. — Uebrigens werden für eine so sturmbewegte Phantasie leicht die aufrichtigsten Entschlüsse von gestern zur Abneigung von heute.
+
+Also zweifelst du, daß — daß ich ihr gefalle?
+
+Warum solltest du ihr nicht gefallen? Dein Aeußeres ist mehr als angenehm — du bist zweiunddreißig Jahre alt — Julia sechzehn — du bist etwas reicher als sie — Alles das stimmt sehr gut.
+
+Und weßhalb zögerst du dann, mir beizustehen?
+
+Ich zögere nicht, dir beizustehen; nur sehe ich, daß du heftig verliebt bist; dies ist dir ungewohnt, und ich fürchte, dieser für dich so neue Zustand könnte dich etwas zu rasch zu einem so ernsten Entschluß, wie die Ehe, bestimmen. Eine Frau ist keine Geliebte — kurz, ehe wir einen unwiderruflichen Schritt thun, möchte ich dich bitten, die Sache noch reiflich zu bedenken.
+
+Freund, sagte der Graf, das will ich nicht, und ich glaube ganz ehrlich, daß ich es nicht kann. Du kennst meine Ansichten. Die ächten Leidenschaften behalten das letzte Wort, und ich bin nicht sicher, ob selbst die Ehre ihnen gegenüber ein ganz solider Einwand ist; ihnen jedoch die Vernunft entgegenzusetzen, ist ein bloßer Scherz. — Uebrigens, Lucan, sage, ist es denn so unvernünftig, ein Wesen zu heirathen, das ich liebe? Ich sehe nicht ein, warum man seine Frau durchaus nicht sollte lieben dürfen. — Nun? kann ich auf dich rechnen?
+
+Durchaus, sagte Lucan, indem er seine Hand ergriff. Ich habe meine Bedenken geäußert; jetzt bin ich der Deinige. Ich werde gleich mit Clotilden sprechen. Sie wird ihre Tochter im Laufe des Nachmittags besuchen. — Komm heute Abend zu Tisch; aber nimm deine ganze Kraft zusammen, denn schließlich ist der Erfolg sehr ungewiß.
+
+Es wurde Herrn von Lucan nicht schwer, die Sache des Grafen bei Clotilden mit Erfolg zu führen. Nachdem sie ihn angehört, nicht ohne ihn mehr als einmal durch Ausrufe des Erstaunens unterbrochen zu haben, erwiderte sie: Mein Gott, das wäre einzig! Diese Heirath würde nicht nur dem Vorhaben ein Ende machen, das mir am Herzen nagt, sondern auch jedes Glück mit sich bringen, das ich mir für meine Tochter nur träumen kann, und die Freundschaft, welche dich mit Pierre verbindet, müßte zwischen seiner Frau und dir ganz von selbst mit der Zeit eine Annäherung herbeiführen. Dies Alles wäre gar zu schön; aber wie soll man einen so vollständigen, so plötzlichen Umschlag in Julia's Gesinnungen hoffen? Sie wird mich mit meiner Botschaft nicht einmal zu Ende kommen lassen!
+
+Clotilde verließ das Haus, bebend vor Bangigkeit. Sie fand Julia in ihrem Zimmer, allein vor einem Spiegel, wo sie ihr Novizenkleid anprobirte: Binde und Schleier, welche ihr üppiges Haar bergen sollten, . lagen auf dem Bette; sie trug nur die lange Tunica von weißer Wolle, deren Falten sie eben ordnete. Als sie ihre Mutter eintreten sah, erröthete sie; dann fing sie an zu lachen: Wie eine Kunstreiterin, nicht wahr, Mutter?
+
+Clotilde antwortete nicht; sie hatte die Hände flehend gefaltet und weinte, während sie den Blick auf sie heftete. Julia fühlte sich von diesem stummen Schmerze mitergriffen, zwei Thränen glitten aus ihren Augen, sie stürzte ihrer Mutter um den Hals, dann sagte sie, indem sie ihr einen Sessel zuschob: Was willst du? Auch mir thut es im Grunde ein wenig leid, denn ich habe eigentlich das Leben geliebt — aber, ganz abgesehen von meinem Berufe, der sehr entschieden ist, gehorche ich einer wirklichen Nothwendigkeit — es giebt für mich keine andere Möglichkeit der Existenz, als diese!
+
+— ich weiß wohl, daß es meine eigene Schuld ist; ich war etwas thöricht. — Ich hätte dich gar nicht verlassen, oder wenigstens gleich nach deiner Verheirathung zu dir zurückkehren sollen — jetzt, nach Monaten, nach Jahren sogar, frage ich dich, ob das noch möglich ist! Erstens würde mich die Verlegenheit umbringen. — Denke mich deinem Manne gegenüber! — Welches Gesicht sollte ich machen? Und dann muß er mich verabscheuen
+
+—	der Knoten ist einmal geschürzt. Wer weiß was ich selbst bei seinem Widersehen, in diesem Hause — — ! Endlich würde ich euch auf alle Fälle unbeschreiblich im Wege sein!
+
+Nein, liebes Töchterchen, sagte Clotilde, keine Seele verabscheut dich; du würdest mit Jubel ausgenommen werden, wie der verlorene Sohn. — Wenn es dir zu schwer fällt, in mein Haus zurückzukehren, wenn du dort Unangenehmes zu finden oder mitzubringen fürchtest — Gott weiß, wie sehr du dich täuschest! — aber wenn du es einmal fürchtest, ist das ein Grund, dich lebendig zu begraben und mir das Herz zu brechen? Könntest du nicht in die Welt zurückkehren, ohne bei mir diesen Verlegenheiten allen zu begegnen, die dich erschrecken? — Du weißt doch, daß es dafür ein ganz einfaches Mittel giebt!
+
+Welches? sagte Julia ruhig; mich verheirathen?
+
+Gewiß, erwiderte Clotilde mit gedämpfter Stimme und sanftem Nicken.
+
+Aber, mein Gott, Mutter, welche Aussicht! Wenn ich es auch wollte — wovon ich weit entfernt bin — ich kenne ja Niemand und Niemand kennt mich.
+
+Es giebt Jemand, fuhr Clotilde mit wachsendem Bangen fort, Jemand, den du genau kennst, und der — der dich anbetet.
+
+Julia öffnete ihre Augen weit, erstaunt und gedankenvoll, nach einer kurzen Pause des Nachsinnens fragte sie: Pierre?
+
+Ja, murmelte Clotilde, bleich vor Aufregung.
+
+Julia's Augenbrauen zogen sich leicht zusammen; sie erhob ihren reizenden Kopf und richtete die Augen einige Secunden gegen die Decke; dann sagte sie mit trockenem, ernstem Tone und leichtem Achselzucken: — Warum nicht? Ihn so gut wie einen Anderen!
+
+Clotilde stieß einen leisen Schrei aus und rief, indem sie beide Hände ihrer Tochter ergriff: Du willst? Du willst wirklich? Ist es wahr? Du erlaubst mir, ihm diese Antwort zu bringen?
+
+Ja, aber in ein wenig andern Worten, sagte Julia lachend.
+
+O mein liebes, liebstes Herzblatt! rief Clotilde, indem sie Julia's Hand mit Küssen bedeckte; aber wiederhole mir noch einmal, daß es wirklich wahr ist — daß du dich morgen nicht anders besonnen haben wirst.
+
+Nein, sagte Julia mit festem Tone ihrer ernsten melodischen Stimme.
+
+Sie sann ein wenig und fuhr fort: Er liebt mich wirklich, dieser große Junge?
+
+Ganz wahnsinnig.
+
+Der Arme! Und er wartet auf Antwort?
+
+Mit Zittern und Beben.
+
+Nun, so geh und beruhige ihn! Wir sprechen morgen weiter darüber. Du wirst begreifen, daß ich nach solch einer Umwälzung nothwendig meinen Kopf ins Gleichgewicht bringen muß; aber sei ruhig — ich bin entschieden.
+
+Als Frau von Lucan nach Hause kam, erwartete Pierre von Moras sie im Salon. Er wurde bei ihrem Erscheinen sehr bleich. — Pierre! sagte sie ganz athemlos, geben Sie mir einen Kuß, Sie sind mein Sohn!
+
+— Respectvoll, das bitte ich mir aus, respectvoll! fügte sie lachend hinzu, als er sie umarmte und an seine Brust drückte.
+
+Dieselbe Freudenscene spielte etwas später mit der Baronin Pers, welche eiligst herbeigerufen worden war.
+
+—	Lieber Freund, sagte die Baronin, ich bin entzückt, ganz entzückt, aber Sie ersticken mich. Ja, ja — Alles ist recht hübsch, mein Junge — aber Sie ersticken mich buchstäblich! Mäßigen Sie sich, Freund, mäßigen Sie sich. Diese liebe Kleine! Das ist artig von ihr, sehr artig. Im Grunde hat sie ein goldenes Herz! — Ueber-dies hat sie auch einen guten Geschmack — denn Sie sind ein schöner Mann, Bester, sehr schön! Schließlich hatte ich stets eine Ahnung, daß sie sich besinnen würde, sobald es ans Haarabschneiden käme — sie hat auch wirklich bewunderungswürdige Haare, das arme Kind!
+
+Und die Baronin schwamm in Thränen; mitten im Schluchzen wendete sie sich zum Grafen: Beiläufig gesagt, werden Sie auch nicht gerade unglücklich sein: sie ist eine Göttin!
+
+Obgleich diese Familienscene und namentlich Clotildens Freude Herrn von Lucan lebhaft bewegte, nahm er doch das unverhoffte Ereigniß kaltblütiger. Im Allgemeinen wenig verschwenderisch mit öffentlichen Ergüssen, war er überdies im Grunde der Seele sorgenvoll und traurig. Die Zukunft dieser Ehe erschien ihm äußerst ungewiß, und in seiner tiefen Freundschaft für den Grafen beunruhigte er sich sehr darüber. Ein Gefühl zarter Rücksicht für Julia hatte ihn zurückgehalten, Alles auszusprechen, was er von diesem Charakter dachte. Er bemühte sich, das Urtheil, welches er sich über sie gebildet, als ungerecht und parteiisch zurückzunehmen; aber doch rief er sich das enfant terrible zurück, welches er früher gekannt, bald aufbrausend wie ein Sturmwind, bald sinnend und in düstere Verschlossenheit zurückgezogen; er stellte sie sich vor, wie man sie ihm seitdem geschildert, erwachsen, schön, ascetisch; dann sah er sie plötzlich ihren Schleier zurückwerfen, wie eine der phantastischen Nonnen in Robert dem Teufel, und mit leichtem Fuße wieder in die Welt eintreten; aus all diesen mannichfaltigen Eindrücken setzte sich ihm unwillkürlich eine abenteuerliche, räthselhafte Gestalt zusammen, welche er nur schwer mit der Vorstellung häuslichen Glückes vereinbaren konnte.
+
+Während des ganzen Abends sprach man in der Familie von den Verwicklungen, welche dieser Heirathsplan hervorrufen könnte, und von den Mitteln, sie zu vermeiden. Herr von Lucan ging mit großer Gefälligkeit in diese Einzelnheiten ein und erklärte, daß er sich herzlich gerne allen Anordnungen fügen würde, die den Wünschen seiner Stieftochter entsprächen. Diese Vorsicht erwies sich keineswegs als überflüssig.
+
+Clotilde war am nächsten Tage schon Morgens im Kloster. Nachdem Julia mit ziemlich ironischer Gleichgültigkeit den Bericht ihrer Mutier über das Entzücken und die Glückseligkeit ihres Bräutigams angehört, sagte sie mit ernsterem Ausdruck: Und was meint dein Mann?
+
+Er freut sich, wie wir Alle.
+
+Ich möchte dich etwas Seltsames fragen: gedenkt er unserer Hochzeit beizuwohnen?
+
+Ganz wie du wünschest.
+
+Höre, meine gute kleine Mutter, gräme dich nicht im Voraus. — Ich fühle wohl, daß diese Heirath uns früher oder später Alle mit einander vereinigen wird — aber laßt mir Zeit, mich an diesen Gedanken zu gewöhnen. — Gewähre mir ein paar Monate, um die alte Julia in Vergessenheit zu bringen, auch bei mir selbst, — nicht wahr, sprich, du willst?
+
+Alles nach deinen Wünschen, sagte Clotilde seufzend.
+
+Ich bitte dich darum! — Sage ihm, daß ich ihn ebenfalls bitte.
+
+Ich werde es ihm sagen; aber weißt du, Pierre ist da.
+
+O, mein Gott! — wo denn?
+
+Ich habe ihn im Garten gelassen.
+
+Im Garten! — welche Unvorsichtigkeit, Mutter! Die Damen da werden ihn in Stücke reißen, wie den Orpheus, denn du kannst glauben, daß er hier nicht im Geruche der Heiligkeit steht.
+
+Herr von Moras wurde benachrichtigt und kam eiligst an. Julia lachte, als er erschien, was seinen Eintritt erleichterte. Während ihres Beisammenseins wiederholten sich die Anfälle dieses nervösen Lachens, das den Frauen in schwierigen Lagen so gut zu Hülfe kommt, mehrere Male. Da Herr von Moras dieses Hülfsmittels nicht mächtig war, begnügte er sich, die schönen Hände seiner Cousine schüchtern zu küssen, und ließ es sehr an Beredsamkeit fehlen; aber seine schönen, männlichen Züge strahlten, und seine großen blauen Augen waren feucht vor glücklicher Zärtlichkeit. Er schien einen günstigen Eindruck zu hinterlassen. — Ich hatte ihn nie von dieser Seite betrachtet, sagte Julia zu ihrer Mutter; er ist wirklich sehr hübsch — ein prachtvoller Ehemann.
+
+Drei Monate später fand die Hochzeit im Familienkreise ohne jedes Gepränge statt. Der Graf von Moras und seine junge Frau reis'ten noch denselben Abend nach Italien ab.
+
+Herr von Lucan hatte zwei bis drei Wochen vorher Paris verlassen und sich tief in der Normandie in einem alten Familienschlosse eingerichtet, wohin ihm Clotilde nach Julia's Abreise so rasch als möglich folgte.
+
+IV.
+
+Vastville, das Erbgut der Familie Lucan, liegt in geringer Entfernung vom Meere, an der Ostküste des normännischen Finistère. Es ist ein Herrensitz mit hohen Dächern und Balcons von geschmiedetem Eisen, welcher aus der Zeit Ludwig's XIII. stammt und das alte Schloß ersetzt hat, dessen letzte Reste dem Parke als Ruinenschmuck dienen. Das Gebäude birgt sich in einer sehr schattigen Mulde der Gegend, und eine lange Allee alter Ulmen führt dahin. Die dichten Wälder, welche es fast von allen Seiten umgeben, verleihen ihm einen eigenthümlich einsamen, melancholischen Charakter. Dieses massive Gehölz bezeichnet auf jenem Punkte der Halbinsel die letzte Anstrengung normannischer Vegetation. Sobald man die Grenze desselben überschreitet, erstreckt sich der Blick plötzlich ohne Hinderniß über die weitgedehnten Heidestrecken, welche das dreieckige Plateau des Vorgebirges la Hague bilden: Felder voll Heidekraut und Ginster, Steinwände ohne Mörtel, hier und dort ein Granitkreuz, zur Rechten wie zur Linken die fernen Wogen des Meeres — so erscheint die ernste, aber großartige Landschaft, welche sich plötzlich im vollen Lichte des Himmels ausbreitet.
+
+Herr von Lucan war in Vastville geboren. Die poetischen Erinnerungen der Kindheit verbanden sich in seiner Phantasie mit der natürlichen Poesie dieses Landsitzes und machten ihm denselben theuer. Unter dem Vorwande, zu jagen, pilgerte er alljährlich dorthin. Erst seit seiner Verheirathung hatte er auf diese Herzensgewohnheit verzichtet, um Clotilde nicht zu verlassen, die durch ihre Tochter an Paris gefesselt war; aber es war ausgemacht, daß sie sich, sobald sie ihre Freiheit wieder erlangt hätten, für die Dauer einer Saison zusammen in diesem Versteck begraben wollten. Clotilde kannte Vastville nur aus den enthusiastischen Schilderungen ihres Mannes; sie liebte es auf Treu' und Glauben, und erwartete sich eine Art Zauberschloß. Dennoch, als der Wagen, welcher sie von der Bucht dorthin brachte, beim Einbruche der Nacht zwischen die von Wäldern bedeckten Hügel und in die dunkle Allee einlenkte, die sich nach dem Schlosse abwärts senkt, überrieselte sie ein Gefühl von Kälte. Mein Gott, lieber Freund, sagte sie lachend, dein Schloß ist ein Gespensterschloß! Lucan entschuldigte sein Schloß so gut er konnte, betheuerte jedoch, daß er ganz bereit sei, es am nächsten Morgen wieder zu verlassen, wenn es ihr nach Sonnenaufgang kein besseres Aussehen zeige.
+
+Bald war sie entzückt davon. Ihr bis dahin so beengtes Glück erblühte zum ersten Male frei in dieser Einsamkeit und erhellte ihr dieselbe mit reizendem Lichte. Sie wünschte sogar den Winter zu bleiben und Julia, die im Laufe des nächsten Jahres nach Frankreich zurückkehren sollte, hier zu erwarten. Lucan machte gegen diesen Plan, der ihm für eine Pariserin übermäßig heroisch erschien, einige Einwendungen, stimmte aber endlich bei, da er selbst allzu glücklich war, für den Roman seiner Liebe einen so romantischen Schauplatz gefunden zu haben. Er dachte übrigens an Alles, was den Aufenthalt für Clotilden weniger düster machen konnte, knüpfte einige Beziehungen mit der Nachbarschaft an und verschaffte seiner Frau von Zeit zu Zeit die Gesellschaft ihrer Mutter. Frau von Pers ging gern darauf ein, obgleich sie im Allgemeinen das Landleben haßte und Vastville insbesondere für einen fatalen Ort erklärte. Sie behauptete, dort Töne im Gemäuer und nächtliches Stöhnen im Forst zu hören. Sie schlief dort nur mit Einem Auge und bei zwei brennenden Kerzen. Die herrlichen Felswände, welche die nahen Küstenufer begrenzen und für welche man ihre Bewunderung zu erregen suchte, verursachten ihr peinliche Aufregung. — Sehr schön! sagte sie, sehr wild! äußerst wild! — Aber es thut mir weh; es kommt mir vor, als wäre ich auf der Thurmspitze von Notre-Dame. Uebrigens, meine Kinder, verschönert die Liebe Alles, und ich begreife eure Gefühle vollkommen; nur müßt ihr mich entschuldigen, wenn ich sie nicht theile! Nie werde ich mich für diese Gegend begeistern können! Gewiß liebe ich das Landleben wie Jedermann; aber dieß ist kein Landaufenthalt, es ist eine Wüste, ein steiniges Arabien, ich weiß selbst nicht was — und was Ihr Schloß betrifft, lieber Freund, so bedaure ich, Ihnen sagen zu müssen, daß es eine Mördergrube ist — Forschen Sie nur nach, Sie werden finden, daß man hier Jemand umgebracht hat.
+
+Nein, theuerste Mama, sagte Lucan lachend; ich bin mit der Chronik meiner Familie genau bekannt und kann Ihnen dafür stehen —
+
+Seien Sie überzeugt, mein Freund, daß hier Jemand umgebracht worden ist — vor Zeiten — Sie wissen, wie wenig Umstände man früher machte! —
+
+Julia schrieb ihrer Mutter häufig. Es war ein förmliches Reisetagebuch, geschrieben wie von einem Sprühteufelchen, in schlagend originellem Stile, worin die Lebhaftigkeit der Eindrücke durch jene Schattirung hochfahrender Ironie gedämpft wurde, die der Verfasserin eigen war. Julie sprach von ihrem Manne ziemlich kurz, wiewohl nichts als Gutes. Meistens war ein flüchtiges und freundliches Postscript für Herrn von Lucan beigefügt.
+
+Herr von Moras hielt sich in seinen Schilderungen nüchterner. Er schien in Italien nichts zu sehen als seine Frau. Er rühmte ihre Schönheit, die, wie er schrieb, in Berührung mit allen Wundern der Kunst, welche sie sich einprägte, noch zugenommen hatte; er rühmte ihren ungewöhnlich guten Geschmack, ihren Geist und sogar ihren Charakter. In diesem Punkte sei sie ungemein gereift, er finde sie fast allzu vernünftig und zu ernst für ihr Alter. Diese Einzelnheiten entzückten Clotilden und befestigten einen Frieden in ihrem Herzen, den sie nie vorher genossen.
+
+Des Grafen Briefe waren für die Zukunft eben so beruhigend, wie für die Gegenwart. Er halte es für bester, schrieb er, Julia nicht zur Versöhnung mit ihrem Stiefvater zu drängen; doch bemerke er, daß sie dazu geneigt sei. Er bereite sie indessen mehr und mehr darauf vor, indem er häufig von der alten Freundschaft erzähle, die ihn mit Herrn von Lucan verbinde, von ihrem früheren Leben, ihren Reisen und gemeinsam bestandenen Gefahren. Julia höre diesen Berichten nicht nur ohne Widerstreben zu, sondern rufe sie sogar oft hervor, als bereue sie ihr Vorurtheil und suche nach guten Gründen, es aufzugeben. Komm, Pylades, erzähle mir von Orest, sage sie dann.
+
+Nachdem Herr und Frau von Moras den ganzen Winter und einen Theil des Frühlings in Italien verlebt hatten, gingen sie nach der Schweiz und schrieben nach Hause, daß sie bis Mitte des Sommers dort bleiben würden. Herr und Frau von Lucan dachten daran, dort mit ihnen zusammenzutreffen und auf diese Art eine Annäherung, die von nun an nur noch eine Frage der Form schien, rasch herbeizuführen. Clotilde war im Begriff, ihrer Tochter diesen Plan mitzutheilen, als sie an einem schönen Maimorgen folgenden Brief aus Paris erhielt:
+
+„Geliebte Mutter!
+
+„Schweiz genug und übergenug! Ich bin hier. Laß dich nicht stören. Ich weiß, wie gern du in Vastville bist. Wir werden dich in den nächsten Tagen dort besuchen und im Herbst Alle zusammen hieher zurückkehren. Laß mir nur noch ein paar Tage Frist, um unsere künftige Niederlassung hier vorzubereiten.
+
+„Wir wohnen im Grand-Hotel. Ich wollte aus hundert Gründen nicht in deinem Hause absteigen, eben so wenig bei meiner Großmutter, die es mir gleichwohl sehr liebenswürdig angeboten hat: „ „ — Aber, mein Gott! liebe Kinder — das geht doch unmöglich an — im Gasthofe! — das schickt sich nicht! Ihr könnt nicht im Gasthofe bleiben! Wohnt doch bei mir — Mein Gott! ihr werdet freilich schlecht wohnen — ganz feldlagermäßig — Ich weiß nicht einmal, wie ich euch speisen soll, denn meine Köchin liegt zu Bette, und mein Dummkopf von Kutscher hat, beiläufig bemerkt, ein böses Auge. Man kommt aber auch nicht so Knall und Fall — ihr fallt mir da über den Kopf wie ein Paar Blumentöpfe! Es ist nicht zu glauben ! Uebrigens befinden Sie sich vortrefflich, lieber Freund — ich frage nicht erst danach — Man sieht es Ihnen an — Und du, mein schöner Liebling? Nein, sie ist ein Gestirn — ein wahres Gestirn — Verstecke dich — du blendest mir die Augen! — Habt ihr Gepäck? — Nun, was thut's? Wir stellen es in den Salon. Und euch selbst trete ich mein Zimmer ab. Ich werde eine Kochfrau und einen Lohnkutscher annehmen — ihr genirt mich gar nicht, ganz und gar nicht — ""
+
+„Kurz, wir haben es nicht angenommen.
+
+„Aber die Erklärung unserer plötzlichen Heimkehr? Da hast du sie. „„Wird dir die Schweiz nicht langweilig?"" fragte ich meinen Mann. „Sie wird mir langweilig," entgegnete dies treue Echo. — „„Nun, dann wollen wir fort."" Und so sind wir abgereis't.
+
+„ Glücklich und erregt bis in den Grund der Seele bei dem Gedanken, dich ans Herz zu schließen.
+
+Julia."
+
+„Postscr. Ich bitte Herrn von Lucan, mich nicht einzuschüchtern."
+
+Die nächsten Tage vergingen Clotilden in der reinsten Glückseligkeit. Sie packte die Kisten, die ohne Unterlaß nach einander ankamen, selbst aus und ordnete den Inhalt mit ihren mütterlichen Händen. Sie faltete Alles auseinander und legte es wieder zusammen, sie liebkos'te diese Röcke und Mieder, dieses feine, duftende Weißzeug — all das war ihr schon ein Theil ihrer Tochter, ein Stück ihrer Persönlichkeit. Lucan, jetzt ein wenig eifersüchtig, überraschte sie, wie sie sich in liebevoller Andacht mit diesen hübschen Kleinigkeiten zu schaffen machte. Sie ging in den Stall, um Julia's Pferd zu sehen, das den Kisten zunächst gefolgt war; sie gab ihm Zucker und plauderte mit ihm. Sie schmückte die dem jungen Ehepaare bestimmten Räume mit Blumen und grünen Zweigen.
+
+Dieses Glücksfieber fand bald sein glückliches Ende. Ungefähr acht Tage nach ihrer Ankunft in Paris schrieb Julia, daß sie und ihr Mann denselben Abend abreifen und am folgenden Morgen in Cherbourg einzutreffen gedächten. Dies war die nächste Station bei Vastville. Natürlich beschloß Clotilde, sie in ihrem Wagen abzuholen. Herrn von Lucan, nachdem er mit ihr Rath gehalten, erschien es richtiger, sie nicht zu begleiten. Er fürchtete die ersten Ergüsse des Wiedersehens zu stören; da er aber nicht wünschte, daß Julia sein Fernbleiben als einen Mangel an Theilnahme betrachten möchte, beschloß er den Reisenden entgegen zu reiten.
+
+V.
+
+Es war in den ersten Tagen des Juni. Clotilde fuhr in aller Frühe ab, frisch und strahlend, wie das Morgenroth. Lucan begab sich zwei Stunden später auf den Weg und ließ sein Pferd langsam traben. Die Landstraßen der Normandie sind in dieser Jahreszeit reizend. Weißdornhecken durchduften die Landschaft und werfen hier und dort ihren rosigen Schnee aus den Rand des Weges. Eine Fülle von jungem, mit Feldblumen ausgesterntem Grün bedeckt den Rain jedes Grabens. Dies Alles wird im heiteren Lichte der Morgensonne zum Feste für die Augen. Gegen seine Gewohnheit jedoch gönnte Herr von Lucan diesem lachendem Naturschauspiele nur zerstreute Beachtung. Die bevorstehende Begegnung mit seiner Stieftochter nahm seinen Sinn in einem Maße ein, über welches er selbst erstaunte. Julia hatte aus seine Stimmnng einen so schweren Druck ausgeübt, daß eine etwas übertriebene Vorstellung von ihr in seiner Phantasie zurückgeblieben war. Vergebens bemühte er sich, dieses Bild auf seine richtigen Verhältnisse zurückzuführen; Alles in Allem handelte sich's hier doch nur um ein Kind, früher ein Enfant terrible, heute das verlorene und wieder heimkehrende Kind im Evangelium. Er hatte sich daran gewöhnt, ihr in seiner Phantasie eine geheimnißvolle Wichtigkeit, eine Art verhängnißvoller Macht einzuräumen, deren er sie nur mit Mühe entkleiden konnte. Er lachte und ärgerte sich über seine Schwäche; dennoch empfand er eine aus Neugierde und unbestimmter Unruhe gemischte Aufregung in dem Momente, wo er dieser Sphinx ins Angesicht blicken sollte, deren bloßer Schatten sein Leben so lange getrübt hatte und die sich jetzt in Person an seinen Herd setzen wollte.
+
+Eine offene, mit Sonnenschirmen überdachte Kalesche erschien auf der Höhe eines Hügels: Lucan sah einen Kopf, der sich aus dem Wagen beugte, ein flatterndes Taschentuch; sogleich setzte er sein Pferd in Galopp. Fast in demselben Augenblicke hielt der Wagen, und eine junge Frau sprang leicht heraus; sie wandte sich, um ihren Reisegefährten ein paar Worte zu sagen, und ging Lucan allein entgegen. Da er sich an Zuvorkommenheit nicht übertreffen lassen wollte, stieg auch er ab, übergab sein Pferd dem nachfolgenden Bedienten und näherte sich eilig der jungen Frau, die er nicht erkannte, die aber augenscheinlich Julia war. Sie kam ihm entgegen, ohne den Schritt zu beschleunigen, in gleitendem Gange, mit leisem Wiegen ihres biegsamen Körpers. Während sie sich näherte, warf sie mit rascher Handbewegung ihren Schleier zurück, und Lucan vermochte nun in diesem jungen Gesichte, in diesen großen, etwas düsteren Augen, in dem rein geschweiften Bogen der Brauen einige Züge des Kindes wiederzufinden, das er damals gekannt hatte.
+
+Als Julia's Blick dem seinigen begegnete, bedeckte sich ihre blasse Wange mit Purpur. Er verneigte sich mit einem Lächeln anmuthiger Freundlichkeit sehr tief vor ihr: Welcome! sagte er.
+
+Danke, sprach Julia mit einer Stimme, deren ernster und melodischer Klang Lucan ergriff; wir sind Freunde, nicht wahr? — Und sie reichte ihm mit bezaubernder Entschlossenheit ihre beiden Hände.
+
+Er zog sie sanft an sich, um sie in seine Arme zu nehmen; da er aber in den Armen der jungen Frau, die auf einmal steif zu werden schienen, einen leisen Widerstand zu spüren glaubte, begnügte er sich, ihr, statt des Handschuhes, das Handgelenk zu küssen. Indem er sie dann mit einem Ausdruck galanter Bewunderung anblickte, die übrigens aufrichtig war, sagte er lachend: Ich möchte Sie wirklich fragen, mit wem ich die Ehre habe zu sprechen.
+
+Finden Sie mich größer geworden? sprach sie, indem sie ihre blendenden Zähne zeigte.
+
+Erstaunlich, sagte Lucan, ganz erstaunlich. Ich begreife Pierre vollkommen.
+
+Der arme Pierre! erwiderte Julia, er hat Sie sehr lieb. Lassen wir ihn nicht länger schmachten, wenn es Ihnen recht ist.
+
+Sie wendeten sich der Kalesche zu, neben welcher Herr von Moras sie erwartete, und während sie neben einander gingen, fuhr Julia fort: Welch schöne Landschaft! — und das Meer ganz nahe?
+
+Ganz nahe.
+
+Wir wollen nach dem Frühstück spazieren reiten, nicht wahr?
+
+Sehr gern ; aber Sie müssen schrecklich müde sein, liebes Kind — Entschuldigen Sie, liebe — wie soll ich Sie eigentlich nennen?
+
+Sagen Sie Madame — ich bin ein so schlimmes Kind gewesen! — Und sie brach in jenes plötzliche, anmuthige, aber etwas sonderbare Lachen aus, welches ihr eigen war. Dann rief sie laut: Sie können kommen, Pierre, Ihr Freund ist auch der meinige! — Sie schwang sich, während die beiden Männer einen herzlichen Händedruck wechselten, in den Wagen und sagte, nachdem sie sich neben ihre Mutter gesetzt und sie geküßt hatte: Mütterchen, Alles ist ganz gut gegangen — Nicht wahr, Herr von Lucan?
+
+Sehr gut, lachte Lucan, ein paar Kleinigkeiten ausgenommen.
+
+O, Sie sind zu kritisch, mein Herr! versetzte Julia, indem sie sich in ihre Shawls hüllte.
+
+Im nächsten Augenblicke galoppirte Lucan neben dem Schlage, während die drei Insassen des Wagens sich jenem freien Geplauder überließen, das glücklich überstandenen Krisen zu folgen pflegt. Clotilde, nun im Besitz aller ihrer Lieben, war wie im Himmel. Du bist zu hübsch, Mütterchen, sagte Julia zu ihr, Wenn man eine so große Tochter hat, wie ich, ist das unerlaubt. Und sie küßte sie wieder.
+
+Lucan versuchte, während er an der Unterhaltung Theil nahm und Julien die Gegend zeigte, im Stillen sich über den Eindruck, den die Begegnung auf ihn selbst gemacht, klar zu werden. Im Ganzen dachte er, gleich seiner Stieftochter, Alles sei gut abgegangen, obgleich es nicht ganz das Rechte war. Das Rechte wäre gewesen, in Julia eine ganz einfache Frau zu finden, die sich gemüthlich an den Hals ihres Stiefvaters geworfen und mit ihm über ihr kindisches Davonlaufen gelacht hätte; aber er hatte von Julia niemals ein so schlichtes Betragen erwartet. Sie war bei dieser Gelegenheit Alles gewesen, was man von einem Naturell gleich dem ihrigen erwarten konnte: sie hatte sich anmuthig-freundschaftlich benommen ; allerdings hatte sie diesem ersten Zusammentreffen eine gewisse dramatische und feierliche Wendung gegeben; sie war romantisch, und da Lucan dies gleichfalls ein wenig war, hatte ihm ihre Seltsamkeit nicht mißfallen.
+
+Uebrigens war er durch Julia's wirklich strahlende Schönheit angenehm überrascht worden. Die strenge Reinheit ihrer Züge, das tiefe Leuchten ihres blauen, von langen schwarzen Wimpern befranzten Auges, die ungemeine Harmonie ihrer Formen, waren nicht ihre einzigen, nicht einmal ihre höchsten Reize; sie dankte ihren seltenen und ganz individuellen Zauber einer gewissen fremdartigen Grazie, die, aus Geschmeidigkeit und Kraft gemischt, ihren geringsten Bewegungen Reiz verlieh. In ihrem Mienenspiel, ihrem Gange, in jeder Regung lag die unumschränkte Ungezwungenheit einer Frau, die sich keines einzigen schwachen Punktes ihrer Schönheit bewußt ist und sich mit der vollen Freiheit eines Kindes in seiner Wiege oder eines Waldvogels auf seinem Zweige bewegt, entwickelt und gehen läßt. Mit einem Wuchs, wie der ihrige, kostete es sie keine Mühe, sich gut zu kleiden; die einfachsten Gewänder schmiegten sich ihrem Körper mit einem eleganten Wurfe an, der die Baronin Pers in ihrer unzulänglichen aber bezeichnenden Ausdrucksweise sagen ließ: „Mit einem dänischen Handschuh könnte man ihre ganze Toilette bestreiten."
+
+Noch an demselben Tage und an den darauf folgenden sicherte Julia sich neue Rechte auf das Wohlwollen Lucan's, indem sie lebhaftes Gefallen am Schlosse Vastville und dessen Lage und Umgebung zeigte. Das, Schloß fesselte sie durch seinen romantischen Stil, seinen altfränkischen, mit Hagebuchen und geschnittenem Taxus gezierten Garten, durch die einsamen Laubgänge des Parkes, die melancholischen, mit Ruinen erfüllten Wälder. Die weiten Ebenen voll Heidekraut, das der Seewind peitschte, die Bäume mit gekrümmten, abwärts gebogenen Wipfeln, die hohen, von den Wellen unablässig ausgehöhlten Granitfelsen versetzten sie in immer neues Entzücken. Dies Alles, sagte sie lachend, habe viel Charakter, und da sie auch viel habe, so fühle sie sich in ihrem Elemente. Sie hatte ihre Heimath gefunden, sie war glücklich, und ihre Mutter, der sie alles, was sie ihr von Zärtlichkeit schuldig geblieben war, in leidenschaftlichen Ergüssen heimzahlte, war es noch weit mehr.
+
+Der größte Theil der Tage wurde mit Spazierritten zugebracht. Nach dem Diner erzählte Julia in der freudigen, etwas fieberischen Stimmung, die sie belebte, von ihren Reisen, wobei sie sowohl ihre eigene Ueberspanntheit, als die verhältnißmäßige Kälte ihres Mannes vor den Meisterwerken antiker Kunst lustig parodirte. Sie versinnlichte diese Erinnerungen durch mimische Darstellungen, wobei sie die Geschicklichkeit einer Fee, die Glut eines Künstlers und zuweilen die Possenhaftigkeit eines Gamin, entwickelte. Im Handumdrehen schuf sie sich mit einer Blume, einem Läppchen, einem Blatt Papier den Kopfputz der Neapolitanerin, der Römerin oder Sicilianerin. Sie führte Ballet- und Opernscenen auf, indem sie die Schleppe ihrer Robe mit einer tragischen Bewegung des Fußes zurückwarf und die üblichen Ausrufe italienischer Lyrik mit starker Betonung wiedergab: O cielo ! crudel ! perfido ! O dio! perdona! Dann kniete sie in einen Fauteuil und ahmte Stimme und Geberden eines Predigers nach, den sie in Rom gehört und der sie nicht gerade sehr erbaut zu haben schien. In all diesen verschiedenen Stellungen verlor sie kein bischen von ihrer Grazie, und in der höchsten Komik blieb ihre Haltung stets elegant. Waren solche Thorheiten vorüber, so nahm sie ihre alte Miene einer gelangweilten Königin wieder an.
+
+Ganz von der reizenden Beweglichkeit und Genialität ihres Naturells hingenommen, vergab Herr von Lucan Julien gern die Launen und Eigenheiten, mit denen sie, namentlich dem Stiefvater gegenüber, nicht karg war. Im Allgemeinen gab sie sich ihm so, wie sie bei ihrem ersten Auftreten gewesen, artig und freundlich, mit einer Schattirung stolzer Ironie; aber sie war sehr ungleich. Zuweilen überraschte Lucan einen auf ihn gehefteten Blick, der einen befremdlichen, fast wilden Ausdruck hatte. Eines Tages stieß sie mit unfreundlichem Ungestüm die Hand zurück, welche er ihr bot, um ihr vom Pferde herabzuhelfen, oder ein Hinderniß zu übersteigen. Sie schien die Gelegenheiten des Alleinseins mit ihm zu fliehen, uud wenn sie einer solchen für einige Minuten nicht ausweichen konnte, zeigte sie bald eine gereizte Verstimmung, bald spöttische Unart. Lucan dachte,' sie mache sich zuweilen den Vorwurf, ihre früheren Gefühle zu sehr zu verläugnen, und glaube sich selbst schuldig zu sein, ihnen von Zeit zu Zeit noch die alte Treue zu beweisen.	Uebrigens	wußte er ihr Dank dafür, daß sie diese wunderlichen Anwandlungen für ihn allein aufsparte und ihre Mutter nicht damit beunruhigte. Im Ganzen legte er diesen Symptomen nur geringe Wichtigkeit bei. Wenn die herzlicheren Gesinnungen seiner Stieftochter noch Spuren von Kampf und Anstrengung trugen, so schien dies bei einem so stolzen Charakter wohl zu entschuldigen, als eine letzte Gegenwehr gegen ihr eigenes Herz, die er sich schmeichelte durch Verdoppelung seiner zarten Aufmerksamkeit bald zu besiegen.
+
+Ungefähr vierzehn Tage nach Julia's Ankunft fand auf dem Schlosse Boisfresnay, das zwei bis drei Meilen von Vastville entfernt liegt, bei der Marquise von Boisfresnay ein Ball statt. Herr und Frau von Lucan verkehrten nachbarlich mit der Marquise. Sie besuchten diesen Ball mit Julia und ihrem Manne, die Herren im Einspänner, die beiden Damen, ihrer Toilette wegen, allein in der Kalesche. Gegen Mitternacht rief Clotilde ihren Mann bei Seite und sagte, indem sie ihm ihre Tochter zeigte, die im anstoßenden Saale mit einem Seeoffizier walzte: Höre, Liebster, ich habe furchtbares Kopsweh und Pierre langweilt sich zum Sterben; aber es fehlt uns der Muth, Julia schon so früh fortzunehmen. Willst du liebenswürdig sein? Du begleitest sie nach Hause, und ich gehe mit Pierre; wir lassen euch die Kalesche.
+
+Ganz recht, mein Herz, sagte Lucan, flüchtet euch nur !
+
+Clotilde und Herr von Moras entschlüpften auf der Stelle.
+
+Einen Augenblick später theilte Julia achtlos die Menge, welche vor ihr zurückwich, wie vor einem Engel des Lichts, hob ihre stolze Stirne und machte Lucan ein Zeichen. — Ich sehe meine Mutter nicht mehr, sagte sie.
+
+Lucan theilte ihr mit zwei Worten die soeben getroffene Verabredung mit. Ein rascher Blitz sprühte aus den Augen der jungen Frau, ihre Brauen zogen sich zusammen; sie zuckte leicht die Achseln, ohne zu antworten, und ging in den Saal zurück, indem sie sich mit demselben gelassenen Uebermuth den Durchgang bahnte. Von Neuem überließ sie sich dem Arme eines Marineoffiziers, und es schien ihr Vergnügen zu machen, in ihrer ganzen Pracht umherzuwirbeln. Ihre Balltoilette verlieh ihrer Schönheit in der That einen fremdartigen Glanz. Brust und Schultern, mit einer Art keuscher Sorglosigkeit aus dem Leibchen emporsteigend, behielten in der Aufregung des Tanzes die kühle, glänzende Reinheit des Marmors.
+
+Lucan bat sie um einen Walzer; sie zögerte, dachte nach und fand, daß die Liste der Seeossiziere, welche sich geschwaderweise auf diese reiche Beute gestürzt hatten, noch nicht erschöpft war. Nach einer Stunde wurde sie es müde, sich bewundern zu lassen, und verlangte den Wagen. Als sie sich aus dem Vorplatz in ihre Hüllen wickelte, bot ihr der Stiefvater seine Hülfe an. Nein! bitte, nein! rief sie voll Ungeduld; die Männer verstehen das nicht — gar nicht!— Dann warf sie sich mit gelangweilter Miene in den Wagen. Als jedoch die Pferde anzogen, sagte sie etwas freundlicher: Rauchen Sie doch! Lucan dankte ihr für die Erlaubniß, ohne Gebrauch davon zu machen; während er sich neben ihr einrichtete, äußerte er: Sie waren heute Abend sehr schön, liebes Kind !
+
+Mein Herr, versetzte Julia in nachlässigem, aber bestimmtem Tone: ich verbiete Ihnen, mich schön zu finden, und ich verbiete Ihnen, mich liebes Kind zu nennen.
+
+Gut, sagte Lucan. Sie sind also nicht schön, ich habe Sie nicht lieb, und Sie sind kein Kind.
+
+Letzteres jedenfalls nicht, sprach sie energisch. Sie umhüllte sich mit ihrem Schleier, kreuzte die Arme über der Brust und schmiegte sich in ihre Ecke, wo die Mondstrahlen von Zeit zu Zeit auf ihren weißen Stoffen spielten. Darf man schlafen? fragte sie.
+
+Ei, gewiß. Soll ich das Fenster schließen?
+
+Bitte, ja. Sind Ihnen meine Blumen nicht lästig?
+
+Durchaus nicht.
+
+Nach einer Pause nahm Julia wieder das Wort: Herr von Lucan?
+
+Gnädige Frau?
+
+Erklären Sie mir doch, was der Brauch ist, denn es giebt Dinge, die ich nicht ganz verstehen kann. — Ist es herkömmlich — ist es passend, daß man eine Frau meines und einen Herrn Ihres Alters Nachts um zwei Uhr allein zusammen von einem Balle zurückfahren läßt?
+
+Ich bin kein „Herr", sagte Lucan, nicht ohne einen gewissen Nachdruck — ich bin der Gatte Ihrer Mutter.
+
+Ah! ohne Zweifel, Sie sind der Gatte meiner Mutter! sagte sie, indem sie jedes Wort mit so bebender Stimme betonte, daß Lucan irgend einen Ausbruch befürchtete. Sie aber fuhr, indem sie eine heftige Erregung zu bezähmen schien, in beinahe munterem Tone fort: Ja, Sie sind der Gatte meiner Mutter, und Sie sind sogar, nach meiner Ansicht, ein sehr schlechter Gatte für meine Mutter.
+
+Nach Ihrer Ansicht, sagte Lucan ruhig. Und weßhalb dies?
+
+Weil Sie gar nicht für sie passen.
+
+Haben Sie Ihre Mutter über diesen Punkt befragt, Gnädigste? Es scheint mir, daß sie darüber besser urtheilen kann, als Sie.
+
+Ich brauche sie nicht zu fragen. — Es genügt, Sie Beide zu sehen. Meine Mutter ist ein Engel — und Sie sind — keiner.
+
+Was bin ich denn?
+
+Sie sind romantisch, abenteuerlich — mit Einem Worte, gerade das Gegentheil. Sie werden sie früher oder später einmal verrathen.
+
+Niemals ! versetzte Lucan mit einiger Schärfe des Tons.
+
+Sind Sie dessen so sicher? fragte Julia, indem sie aus der Tiefe ihrer Kapuze den Blick auf ihn heftete.
+
+Gnädige Frau, erwiderte Herr von Lucan, Sie haben mich so eben gebeten, Ihnen zu sagen, was passend ist, und was nicht; nun, es ist keineswegs passend, daß Sie Ihre Mutter, ich meine Frau zum Gegenstand eines Scherzes dieser Art machen, und deßhalb ist es passend, zu schweigen.
+
+Sie schwieg, blieb regungslos und schloß die Augen. Nach einem Moment sah Lucan, wie eine Thräne sich von ihren langen Wimpern lös'te und aus ihre Wange glitt. Mein Gott, liebes Kind, sagte er, ich habe Sie verletzt — ich bitte Sie aufrichtig, mich zu entschuldigen.
+
+Behalten Sie Ihre Entschuldigung für sich! entgegnete sie mit dumpfer Stimme, indem sie ihre großen Augen plötzlich öffnete. Ich will nichts von Ihren Entschuldigungen, so wenig als von Ihren guten Lehren! — Ihre guten Lehren! womit habe ich verdient, dadurch gedemüthigt zu werden? — Ich begreife das nicht. Was kann es Unschuldigeres geben, als meine Reden, und was verlangen Sie denn, daß ich Ihnen sagen soll? Ist es meine Schuld, daß ich hier mit Ihnen allein gin? daß ich gezwungen bin, mit Ihnen zu reden — daß ich nicht weiß, was ich Ihnen sagen soll? Warum setzt man mich Dem aus? Warum verlangt man mehr von mir, als ich leisten kann? Man muthet meiner Kraft zu viel zu! Es ist genug — es ist schon tausendmal zu viel mit der Komödie, die ich Tag für Tag spiele — Gott weiß es, ob ich ihrer müde bin!
+
+Lucan überwand nur mit Mühe das schmerzliche Erstaunen, welches ihn ergriffen hatte.
+
+Julia, sagte er endlich, Sie haben mir doch selbst gesagt, wir seien Freunde; ich glaubte es. Ist es denn nicht wahr?
+
+Nein.
+
+Nachdem sie ihm dieses Wort mit düsterer Energie zugeschleudert, verhüllte sie Kopf und Angesicht wieder in ihren Schleier und blieb während des Restes der Fahrt in ein Schweigen versenkt, das Lucan nicht störte.
+
+VI.
+
+Nach einigen Stunden unerquicklichen Schlafes erhob sich Herr von Lucan am nächsten Morgen mit sorgenschwerer Stirne. Die Wiederaufnahme der Feindseligkeiten, welche ihm so deutlich angekündigt worden war, prophezeite nur allzu gewiß seiner Ruhe neue Störung, Clotildens Glücke neue Erschütterung. Er sollte also diese verhaßten Aufregungen, welche sein Leben so lange getrübt hatten, abermals durchmachen, und diesmal ohne jede Hoffnung, ihnen zu entrinnen. Wer mußte nicht für immer an diesem unbezähmbaren Charakter verzweifeln, den Jahre und Vernunft, den so viel Rücksicht und Zärtlichkeit in seinen Vorurtheilen, seinem Hasse nicht wankend gemacht hatten? Wer vermochte diese Grille, diese Manie vielmehr, welche sich einer so in sich selbst zurückgezogenen Seele bemächtigt, zu begreifen oder gar jemals zu besiegen — eine Grille, die dumpf in ihr fortlebte, stets bereit, mit rasender Heftigkeit hervorzubrechen?
+
+Clotilde und Julia waren noch nicht erschienen. Lucan machte einen Gang durch den Garten, um noch einmal den Frieden seiner geliebten Einsamkeit zu athmen, ehe die vorhergesehenen Stürme kämen. In der Tiefe eines Hagebuchenganges erblickte er den Grafen Moras, den Arm auf das Piedestal einer alten Statue gestützt, den Blick zur Erde gesenkt. Herr von Moras war niemals ein Träumer gewesen; aber seit seiner Ankunft im Schlosse hatte er sich von Lucan schon mehr als einmal in schwermüthigen Stimmungen überraschen lassen, die ihm ganz fremd waren. Lucan beunruhigte sich hierüber; da er es jedoch selbst nicht liebte, sein eigenes Vertrauen erzwingen zu lassen, so hatte er darauf verzichtet, ihn zu befragen.
+
+Als sie sich trafen, reichten sie einander die Hand.
+
+Du bist letzte Nacht spät zurückgekommen? fragte der Graf.
+
+Gegen drei Uhr.
+
+O! povero! Uebrigens, ich danke dir für deine Gefälligkeit gegen Julia. — Wie hat sie sich gegen dich benommen?
+
+O, gut, sagte Lucan. Etwas eigenthümlich, wie immer.
+
+Ja, eigenthümlich — das versteht sich von selbst! — Er lächelte recht traurig, faßte Lucan's Arm und sagte, während er ihn in das Labyrinth der Hagebuchen mit sich fortzog, gepreßten Tones: Sage mir, Lieber, ganz unter uns, was ist Julia für ein Wesen?
+
+Wie, Freund?
+
+Ja, was für ein Wesen ist meine Frau? Wenn du das weißt, so sage es mir, ich bitte dich.
+
+Verzeih — das möchte ich dich fragen.
+
+Mich? sagte der Graf; ich weiß es durchaus nicht. Sie ist ein Räthsel, für das ich keine Lösung habe. Sie bezaubert und erschreckt mich. — Eigenthümlich sei sie, hast du gesagt? Sie ist mehr als das — sie ist gespenstisch. Sie ist nicht von dieser Welt. Ich weiß nicht, mit Wem ich vermählt bin. — Erinnerst du dich jenes schönen kalten Weibes im arabischen Märchen, das Nachts aus dem Bette schlich, um auf den Kirchhöfen Orgien zu feiern? Es ist lächerlich, aber sie erinnert mich daran!
+
+Das unruhige Auge des Grafen, das gezwungene Lachen, womit er seine Worte begleitete, ergriffen Lucan lebhaft. Du bist also unglücklich? fragte dieser.
+
+So sehr man es nur sein kann, erwiderte der Graf, indem er ihm lebhaft die Hand drückte. Ich bete sie an, ich bin eifersüchtig — ohne zu wissen auf Wen oder auf Was. Sie liebt mich nicht — und doch liebt sie — sie muß lieben! Wer könnte daran zweifeln? Sieh sie an: sie ist das wahre Bild der Leidenschaft; die Glut der Leidenschaft wallt über in ihren Worten, ihren Blicken, im Blute ihrer Adern! — Und bei mir ist sie die eisige Statue eines Grabmals!
+
+Offen gesprochen, Bester, sagte Lucan, du scheinst mir dein Mißgeschick zu übertreiben. In Wirklichkeit läßt sich dasselbe wohl auf ein sehr geringes Maß zurückführen. Vor Allem' liebst du, wie ich glaube, zum ersten Male in deinem Leben ernstlich; du hattest von Liebe und Leidenschaft viel gehört und vielleicht Wunderdinge davon erwartet. Fürs Andere gebe ich dir zu bemerken, daß ganz junge Frauen selten sehr leidenschaftlich sind. Die Art von Kälte, worüber du klagst, ist deßhalb, ohne daß man an etwas Uebernatürliches zu denken braucht, sehr erklärlich. Junge Frauen, ich wiederhole es, sind durchschnittlich Idealistinnen; ihre Liebe ist körperlos — du fragst, auf Wen oder auf Was du eifersüchtig sein sollest? Du müßtest es auf all diese wesenlose Romantik sein, die eine junge Phantasie außer Athem bringt, auf den Wind, den Sturm, die öde Heide, die wilden Felsen, auf meinen alten Wohnsitz, meine Wälder und Ruinen, denn all Dies betet Julia an! Vor Allem müßtest du es auf den glühenden Cultus sein, den sie für das Gedächtniß ihres Vaters bewahrt und der noch jetzt — ich habe erst kürzlich den Beweis erhalten — noch jetzt den Kern ihrer Leidenschaftlichkeit bildet.
+
+Du thust mir wohl, erwiderte Pierre von Moras, indem er erleichtert aufathmete. Freilich hatte ich mir dies Alles selbst gesagt. — Aber, liebt sie jetzt nicht, so wird sie lieben — eines Tages wird sie lieben — und wenn ich es nicht wäre! Wenn sie einem Andern Alles gäbe, was sie mir weigert — Freund, fuhr der Graf fort, dessen schöne Züge erbleichten — ich würde sie mit eigner Hand ermorden!
+
+Verliebter! sagte Lucan, und ich, bin ich denn Nichts mehr?
+
+Du, mein Freund? sprach Moras bewegt — du siehst, wie ich dir vertraue! Ich gebe dir beschämende Schwachheiten preis — Ach! warum habe ich je ein anderes Gefühl kennen gelernt, als das der Freundschaft! Sie allein erwidert Alles, was man ihr giebt, sie kräftigt, statt zu entnerven; sie ist das einzige Gefühl, das einesMannes würdig ist. — Verlaß mich nie, mein Freund; du wirst mir für Alles Trost sein.
+
+Die Glocke, welche die Frühstücksstunde verkündigte, rief Beide ins Schloß zurück. Julia sagte, sie sei müde und unpäßlich. Dieser Vorwand ließ sie mit ihrem Stillschweigen, ihren mehr als trockenen Antworten auf Lucan's artige Erkundigungen anfangs durchschlüpfen, ohne daß die Aufmerksamkeit ihrer Mutter und ihres Mannes wach wurde; während des übrigen Tages aber und unter den verschiedenen Vorkommnissen des Familienlebens wurde der herausfordernde Ton und das übellaunige Benehmen Julia's gegen Lucan zu auffallend, um unbeachtet bleiben zu können. Da Lucan indessen Geduld und guten Ton genug hatte, um sich den Anschein zu geben, als bemerke er Nichts, behielt Jedes seine Eindrücke für sich. Das Mittagsmahl verlief heute ernster als gewöhnlich. Gegen Ende desselben berührte das Gespräch eine brennende Frage, und Julia selbst hatte es, ohne übrigens Arges dabei zu denken, auf diesen Punkt gelenkt. Sie spottete lebhaft über einen acht- bis zehnjährigen Jungen, den Sohn der Marquise von Boisfresnay, der sie gestern sehr geärgert hatte, indem er seine eingebildete kleine Person auf dem Balle geltend machte und gleich einem Kreisel aufs Angenehmste zwischen den Beinen der Tänzer und den Kleidern der Tänzerinnen herumwirbelte. Die Marquise hatte über diese allerliebsten Possen sich vor Lachen ausschütten wollen. Clotilde vertheidigte sie sanft mit dem Bemerken, dieses Kind sei ihr einziger Sohn.
+
+Kein Grund, die Gesellschaft mit einem Querkopf mehr zu beschenken, sagte Lucan.
+
+Bei alledem, meinte jetzt Julia, die sich beeilte, ihre eigene Ansicht fallen zu lassen, sobald ihr Stiefvater derselben beitrat, ist es eine anerkannte Thatsache, daß die verzogenen Kinder am besten gerathen.
+
+Es möchte denn doch Ausnahmen geben, bemerkte Herr von Lucan kühl.
+
+Ich kenne keine, erwiderte Julia.
+
+Lieber Gott, sagte Graf Moras, der vermitteln wollte, — ob nun mit Recht oder Unrecht, es ist nun einmal heut zu Tage Mode, die Kinder zu verziehen.
+
+Das ist eine strafbare Mode, versetzte Lucan. Früher gab man ihnen die Ruthe und machte Menschen aus ihnen.
+
+Wenn man so gesinnt ist, sagte Julia, so verdient man keine Kinder zu haben — und man hat ja auch keine! fügte sie mit einem trotzigen Blicke hinzu, der die kränkende, ja grausame Absicht ihrer Worte noch verschärfte.
+
+Herr von Lucan wurde sehr bleich. Clotildens Augen füllten sich mit Thränen. Julia, über ihren Triumph bestürzt, verließ den Saal. Nachdem ihre Mutter einige Augenblicke das Gesicht in ihren Händen verborgen hatte, stand sie auf und ging ihr nach.
+
+Sage mir doch, Lieber, fragte Herr von Moras, sobald er sich mit Lucan allein sah, was ist denn letzte Nacht zwischen euch vorgefallen? — Du hast mir vorhin allerdings Andeutungen gemacht — aber ich war zu vertieft in meine egoistischen Bekümmernisse, um Acht darauf zu geben. — Nun, was ist vorgefallen?
+
+Nichts Besonderes. Nur davon habe ich mich überzeugen können: sie vergiebt es mir nie, daß ich einen Platz einnehme, der nach ihrer Meinung nie wieder hätte ausgefüllt werden sollen.
+
+Was räthst du mir, George? fuhr Herr von Moras fort. Ich werde thun was du willst.
+
+Lieber Freund, sagte Lucan, indem er seine Hände sanft auf Moras' Schultern legte, zürne mir nicht, aber das Zusammenleben wird unter diesen Verhältnissen sehr schwierig. Wir wollen keinen Auftritt abwarten, der nie wieder gut zu machen wäre. In Paris können wir ohne Mißstände verkehren. Ich rathe dir, sie von hier fortzunehmen.
+
+Und wenn sie nicht will?
+
+Ich würde nachdrücklich mit ihr sprechen, sagte Lucan, indem er ihm ins Auge blickte; heute Abend habe ich zu arbeiten, das trifft sich gut. Auf Wiedersehen, lieber Freund.
+
+Herr von Lucan schloß sich in sein Bibliothekzimmer ein. Eine Stunde später suchte ihn Clotilde dort auf. Er sah ihr an, daß sie heftig geweint hatte; aber sie hielt ihm mit ihrem sanftesten Lächeln die Stirne hin. Während er sie küßte, murmelte sie leise nur das Wort: Vergieb ihr! Dann zog sich das liebenswürdige Wesen eilig wieder zurück, indem sie ihre Bewegung verbarg.
+
+Am nächsten Morgen arbeitete Herr von Lucan, der nach seiner Gewohnheit sehr frühzeitig auf war, seit einiger Zeit am Fenster des Bibliothekzimmers, welches in geringer Höhe nach dem Garten hinausging. Er war nicht wenig überrascht, das Gesicht seiner Stieftochter zwischen den Geisblattranken erscheinen zu sehen, mit denen das eiserne Laubwerk des Balcons durchflochten war.
+
+Sind Sie sehr beschäftigt? fragte sie mit ihrer klangvollen Stimme.
+
+O nein! erwiderte er aufflehend.
+
+Das Wetter ist zu köstlich, fuhr sie fort. Wollen Sie mit mir spazieren gehen?
+
+O ja.
+
+Nun, so kommen Sie — Himmel! wie dies Geißblatt duftet! — Sie riß einige Blüten von der Ranke und warf sie mit lautem Lachen Lucan durch das Fenster zu. Er steckte sie in sein Knopfloch mit der Miene eines Menschen, dem ein Vorgang unbegreiflich, aber nicht unerwünscht ist.
+
+Er fand sie in frischer Morgentoilette; ihr leichter Fuß klopfte ungeduldig gegen den Sand. — Herr von Lucan, sagte sie heiter, meine Mutter verlangt, ich soll liebenswürdig gegen Sie sein, mein Mann will es auch, der Himmel ebenfalls, vermuthe ich; deßhalb will ich es gleichfalls, und ich versichere Sie, daß ich sehr liebenswürdig sein kann, wenn ich mir die Mühe gebe. — Sie werden sehen!
+
+Ist es möglich? sagte Lucan.
+
+Sie werden es sehen, mein Herr! erwiderte sie, indem sie ihm mit all ihrer Anmuth eine theatralische Verbeugung machte.
+
+Und wohin gehen wir, Gnädigste?
+
+Wohin Sie Lust haben — in die Wälder, aufs Gerathewohl, wenn Sie nichts dagegen haben.
+
+Die bewaldeten Hügel lagen dem Schlosse so nahe, daß sie die eine Seite des Hofes mit ihrem Schattenstreif berührten. Herr von Lucan und Julia schlugen den nächsten Pfad ein, der sich ihnen bot; bald verließ aber Julia die gebahnten Wege, um, dem Zufall nach, von einem Baume zum andern zu gehen, sich mit Lust zu verirren, mit ihrem Stöckchen ins Dickicht zu schlagen, Blumen oder Laub zu pflücken, indem sie voll Entzücken vor den Lichtstreifen stehen blieb, die hier und dort den Moosteppich beglänzten, ganz berauscht vom Wandern, frischer Luft, Sonnenschein und Jugend. Während sie vorwärts schritt, warf sie ihrem Begleiter wie einem guten Kameraden Worte, thörichte Fragen, kindische Neckereien zu und ließ den Wald von ihrem helltönenden Gelächter widerhallen.
+
+In ihrer Bewunderung der Waldflora hatte sie nach und nach eine förmliche Garbe gepflückt, deren Bürde Herr von Lucan mit Ergebung zu tragen übernahm; als sie aber sah, wie sehr sie ihn beladen, setzte sie sich auf die Wurzeln einer alten Eiche, um, wie sie sagte, aus diesem Durcheinander eine schöne Auswahl zu treffen. Sie nahm nun den ganzen Bündel Kräuter und Blumen auf den Schooß und begann Alles wegzuwerfen, was ihr von geringer Art erschien. Was sie für den eigentlichen Strauß glaubte behalten zu müssen, reichte sie Lucan zu, der einige Schritte von ihr entfernt saß, und begründete ihr Urtheil über jede von ihr geprüfte Pflanze ganz ernsthaft: Du, Beste, bist zu mager! — Du bist niedlich, aber zu kurz! — Du — du riechst nicht gut! — Du da siehst einfältig aus! — Dann ging sie plötzlich aus einen andern Gedankengang über, der Herrn von Lucan anfangs beunruhigte: Nicht wahr, sagte sie, Sie haben Pierre den Rath gegeben, nachdrücklich mit mir zu sprechen?
+
+Ich! sprach Lucan; welcher Gedanke!
+
+Sie müssen es gewesen sein. Du, fuhr sie fort mit ihren Blumen zu plaudern, du siehst krank aus, gute Nacht! — Ja, Sie müssen es gewesen sein. — Wenn man Sie ansieht, hält man Sie für sanft — und Sie sind doch sehr hart, sehr tyrannisch.
+
+Ein Wütherich, sagte Lucan.
+
+Uebrigens bin ich Ihnen deßhalb nicht böse. Sie haben Recht gehabt. Dieser arme Pierre ist zu schwach gegen mich. Ich habe es gern, wenn ein Mann sich als Mann zeigt — und doch ist er sehr tapfer, nicht wahr?
+
+Außerordentlich, sagte Lucan. Er ist der äußersten Energie fähig.
+
+So sieht er auch aus, und doch ist er mir gegenüber — ein wahrer Engel.
+
+Weil er Sie liebt.
+
+Sehr wahrscheinlich! — Unter diesen Blumen giebt es doch seltsame — sieht diese hier nicht aus wie eine kleine Dame ?
+
+Hoffentlich lieben Sie meinen tapferen Pierre doch auch ?
+
+Gleichfalls sehr wahrscheinlich. — Nach einer Pause schüttelte sie den Kopf: Und warum sollte ich ihn lieben?
+
+Schöne Frage! sagte Lucan; doch wohl, weil er der Liebe durchaus werth ist, weil er jeden Vorzug besitzt, Geist, Herz, und sogar Schönheit — endlich, weil Sie ihn geheirathet haben.
+
+Herr von Lucan, soll ich Ihnen Etwas anvertrauen?
+
+Bitte, ja.
+
+Diese italienische Reise war sehr schlimm für mich.
+
+Wie so?
+
+Stellen Sie sich vor, daß ich mich vor meiner Verheirathung nicht gerade für häßlich, aber für ganz gewöhnlich gehalten habe.
+
+Gut — und nun?
+
+Nun! während ich in Italien zwischen all diesen Denkmälern, diesen vielbewunderten Marmorbildern umherwanderte, stellte ich sonderbare Betrachtungen an. Ich sagte mir, daß, Alles in Allem, diese Fürstinnen und Göttinnen der antiken Welt, welche Schäfern und Königen die Köpfe verrückten, Krieg und Tempelschänderei entzündeten, ungefähr Naturen von meinem Schlage gewesen sind. Da ging mir das verhängnißvolle Verständniß meiner Schönheit auf. Ich begriff, daß ich eine außergewöhnliche Macht besitze, daß ich ein geweihter Gegenstand sei, der sich nicht um gemeinen Preis hergeben dürfe, der nur der Lohn für — was weiß ich! für eine große That — oder für ein großes Verbrechen sein könne.
+
+Lucan blieb über die verwegene Naivetät dieser Sprache einen Augenblick fassungslos. Endlich entschloß er sich darüber zu lachen : Aber, liebe Julia, sagte er, bemerken Sie Eines : Sie irren sich im Jahrhundert. Wir leben nicht mehr in Zeiten, wo man um schöne Frauenaugen Krieg führt. — Uebrigens reden Sie mit Pierre darüber ; er besitzt jede Eigenschaft, um Ihnen die verlangte große That zu bieten ; was das Verbrechen betrifft, so glaube ich, Sie werden darauf verzichten müssen.
+
+Meinen Sie? sagte Julia. Schade! fügte sie mit lautem Gelächter bei. — Nun, Sie sehen, daß ich Ihnen alle Tollheiten erzähle, die mir durch den Kopf gehen. Das ist hoffentlich liebenswürdig?
+
+Außerordentlich liebenswürdig, erwiderte Lucan. Fahren Sie nur so fort.
+
+Nach einer so unschätzbaren Aufmunterung, mein Herr, sagte sie, indem sie sich erhob und ihre Worte mit einer Verbeugung endigte — für den Augenblick wollen wir aber frühstücken. Ich empfehle Ihnen meinen Strauß. Halten Sie die Blüten abwärts. — Gehen Sie voraus, mein Herr, und auf dem kürzesten Wege, wenn ich bitten darf, denn ich habe einen Appetit, daß ich weinen könnte.
+
+Lucan schlug den nächsten Pfad nach dem Schlosse ein. Sie folgte mit flüchtigem Schritte, bald eine Arie summend, bald neue Weisungen an ihn richtend, wie er den Straub halten müsse, bald ihn leise mit ihrem Stückchen antippend, um seine Aufmerksamkeit auf irgend einen Vogel zu lenken, der sich auf dem Zweige wiegte.
+
+Clotilde und Herr von Moras saßen auf einer Bank vor der Thüre des Schlosses und erwarteten sie. Beim Klange von Julia's lachender Stimme verschwand die Unruhe, die aus ihren Gesichtern zu lesen war. Sobald die junge Frau sie erblickte, entriß sie Lucan den Strauß, lief auf Clotilden zu und sagte, indem sie ihr die ganze Blumenernte in die Arme warf: Mütterchen, wir haben einen köstlichen Spaziergang gemacht — ich war sehr vergnügt, Herr von Lucan auch, und, was mehr ist, er hat in der Unterhaltung mit mir viel gelernt. — Ich habe ihm Horizonte eröffnet! Sie beschrieb mit der Hand einen weiten Bogen ins Blaue, um die Unermeßlichkeit der Horizonte zu bezeichnen, die sie Herrn von Lucan eröffnet. Dann zog sie ihre Mutter nach dem Speisesaal und athmete begierig die Luft ein: O diese mütterliche Küche! rief sie. Welcher Duft!
+
+Diese gute Laune, welche das ganze Schloß in Feststimmung brachte, verläugnete sich den ganzen Tag nicht und dauerte, gegen alle Erwartung, am nächsten und alle folgenden Tage fort, ohne sich merklich zu ändern. Wenn Julia noch einige Neste ihrer schroffen Launen in sich nährte, so hatte sie wenigstens die Güte, sie für sich zu behalten und allein darunter zu leiden. Mehr als einmal sah man sie auch jetzt noch mit bewölkter Stirne und finsterem Auge von ihren einsamen Ausflügen zurückkehren; aber sie schüttelte diese räthselhaften Stimmungen ab, sobald sie in der Familie war, . und zeigte sich dort nur voll Liebenswürdigkeit. Diese erwies sie namentlich Herrn von Lucan, offenbar im Gefühl, daß sie ihm gegenüber viel gut zu machen hatte. Sie verfügte sogar mit allzuwenig Rücksicht über seine Zeit und nahm ihn fast zu oft für ihre Spaziergänge, Zeichnungen zu Stickereien, vierhändiges Klavierspiel, manchmal für Nichts und wieder Nichts in Anspruch, lediglich um ihn zu stören; und das that sie, indem sie sich z. B. vor seinem Fenster auspflanzte und, während er las, eine ganze Reihe drolliger Fragen an ihn richtete. Dies Alles war reizend: Herr von Lucan ging gefällig vorauf ein und machte sich übrigens kein großes Verdienst aus der Sache.
+
+Inzwischen langte die Baronin Pers an, um drei Tage bei ihrer Tochter zu verleben. Die wunderbare Veränderung, welche mit Julia's Charakter und in ihrem Benehmen gegen ihren Stiefvater vor sich gegangen war, wurde ihr sogleich mit allen Einzelnheiten mitgetheilt. Als Frau von Pers selbst Zeugin der zarten Aufmerksamkeiten wurde, die Julia Herrn von Lucan widmete, äußerte sie lebhafte Befriedigung, wobei aber doch noch hin und wieder Spuren ihrer alten Vorurtheile gegen ihre Enkelin zu erkennen waren.
+
+Den Tag vor der Abreise der Baronin wurden ihr zu Liebe einige Nachbarn zum Diner geladen, denn sie hatte wenig Geschmack am Familienleben und liebte Gäste leidenschaftlich. Man lud ihr deßhalb, in Ermangelung von etwas Besserem, den Pfarrer von Vastville, den Steuereinnehmer, den Arzt und den Receveur de l'Enregistrement*) ein, häufige Besucher des Schlosses und große Verehrer Julia's. Tics war nicht viel, aber es reichte hin, um die Baronin zu berechtigen, große Toilette zu machen.
+
+*) Ein specifisch französischer Administrativbeamter.
+
+Während des Mahles schien es Julia auf Eroberung des Pfarrers anzulegen, eines harmlosen Greises, der mit einer Art heiteren Staunens den Zauber seiner Nachbarin auf sich wirken ließ. Sie brachte ihn zum Esten, zum Trinken und auch zum Lachen.
+
+Welche Schlange, nicht wahr, Herr Pfarrer? sagte die Baronin.
+
+Sie ist sehr liebenswürdig, meinte der Pfarrer.
+
+Zum Erschrecken, gab die Baronin zurück.
+
+Abends, nachdem sie ein paarmal herumgewalzt, sang Julia mit ihrer schönen, tiefen Stimme zur Begleitung ihres Gemahls einige unbekannte Melodieen, Nationallieder, die sie aus Italien mitgebracht. Eine dieser Weisen erinnerte sie an eine Art von Tarantella, welche sie von Frauen Procida's hatte tanzen sehen, und sie bat ihren Mann, dieselbe zu spielen. Zugleich erzählte sie voll Feuer, wie diese Tarantella getanzt werde, indem sie rasche Andeutungen der Schritte, Bewegungen und Stellungen gab; auf einmal rief sie, von der Glut der eigenen Erzählung fortgerissen: Warte, Pierre, ich will sie tanzen — das ist einfacher. — Sie hob ihre Schleppe auf, die ihr im Wege war, und bat ihre Mutter, sie mit Stecknadeln zu befestigen. Während es geschah, war sie selbst eifrig beschäftigt: auf dem Kaminsims und auf den Consolen standen gefüllte Blumenvasen ; sie nahm daraus mit ihren flinken Händen, und vor einem Spiegel stehend steckte und wand sie Blumen, Gräser, Beeren, Kornähren, kurz Alles, was ihr zwischen die Finger kam, kreuz und quer in ihre prachtvollen Haare. Nun stellte sie sich mitten ins Zimmer, den Kopf mit diesem dichten, zitternden Kranze beladen. Vorwärts, mein Freund! sagte sie zu Herrn von Moras.
+
+Er spielte die Tarantella, die mit einer Art von langsamem, feierlichem Balletschritt begann, welchen Julia mit ihrem königlichen Anstand ausführte, indem sie ihre Alabasterarme wie Guirlanden in- und auseinander schlang; als sich dann der Rhythmus mehr und mehr belebte, flog sie schneller und schneller hin, mit der wilden Schmiegsamkeit und dem schwärmerischen Lächeln einer jungen Bacchantin; plötzlich endigte sie in einer lang hingleitenden Bewegung, mit welcher sie hochathmend zu Lucan's Platz gelangte. Dort beugte sie ein Knie, hob mit rascher Geberde ihre beiden Hände empor und ließ zu gleicher Zeit, den gesenkten Kopf schüttelnd, ihren Kranz in einen Blumenregen aufgelös't zu Lucan's Füßen fallen, während sie mit ihrer süßesten Stimme wie huldigend nichts sagte als: Mein Herr! . . Darauf erhob sie sich wieder, immer noch tanzend, warf sich in einen Sessel, ergriff ganz ernsthaft des Pfarrers Dreispitz und fächelte sich damit das Gesicht.
+
+Mitten unter dem Beifallssturm und Gelächter, welche den Saal füllten, rückte die Baronin Pers auf dem Sopha, welches sie mit Lucan gemeinschaftlich einnahm , sachte näher zu ihm heran und sagte ihm ganz leise: Ei, ei! mein Bester, was bedeutet denn dieses neue Gebahren? Wissen Sie wohl, daß mir ihre frühere Art noch lieber war? — Wie so, Theuerste? warum denn? fragte Lucan harmlos.
+
+Ehe die Baronin sich aber erklären konnte, wenn sie dies überhaupt im Sinne hatte, war Julia bereits von einem neuen Einfall ergriffen. — Wahrhaftig, ich ersticke, sagte sie, geben Sie mir Ihren Arm, Herr von Lucan. - Sie ging hinaus, und Lucan begleitete sie. Im Vestibule blieb sie stehen, um den Kopf mit ihrem großen weißen Schleier zu bedecken, schien einen Augenblick zwischen der Gartenthüre und der ' Hofthüre zu schwanken, und sagte dann, sich entscheidend: In die Damenallee; dort ist es am kühlsten.
+
+Die Damenallee, Julia's Lieblingsspaziergang, öffnete sich der großen Allee gegenüber am andern Ende des Hofes. Es war ein sanft abwärts führender Pfad zwischen der felsigen Böschung der bewaldeten Hügel und dem Rande eines Hohlweges, der einer der alten Schloßgräben gewesen zu sein schien. In der Tiefe dieses Hohlweges rieselte ein Bach mit melancholischem Rauschen; er verlor sich in einiger Entfernung in einen kleinen, von Weiden beschatteten Teich, den zwei alterthümliche Nymphen von Marmor hüteten; diesen verdankte die Damenallee ihren durch Volksüberlieferung geheiligten Namen. Halbwegs zwischen Hof und Teich thürmten sich im Rücken des Hügels Mauerreste und eingestürzte Bogengewölbe auf, Ueberbleibsel irgend eines befestigten Außenwerkes. Die schweren Pfeiler dieser Ruinen begrenzten einige Schritte entlang den Pfad und warfen im Verein mit Epheugewinden und Brombeersträuchern breite Schatten, welche die Nacht in undurchdringliche Finsternisse verwandelte. Zu solcher Stunde hätte man meinen können, der Weg sei von einem Abgrunde durchschnitten. Indessen war der düstere Charakter dieser Stelle durch Manches gemildert : feiner, trockener Sand bedeckte den Weg; ländliche Ruhesitze standen hier und dort gegen die Böschung gelehnt, und die Rasenhänge, welche sich in den Hohlweg senkten, waren mit Hyacinthen, Veilchen und Zwergrosen übersäet, deren Duft sich in dieser bedeckten Allee sammelte und aufstieg, wie der Geruch des Weihrauchs in einer Kirche.
+
+Cs war gegen Ende Juli, und die Hitze war den Tag über drückend gewesen. Als Julia die noch von der Glut des Sonnenunterganges durchzitterte Atmosphäre des Hofes verließ, athmete sie die frische Luft des Baches und der Wälder begierig ein. O Gott, wie wohl das thut! sagte sie.
+
+Aber ich fürchte, es thut allzu wohl, äußerte Lucan; erlauben Sie mir - und er wickelte die flatternden Enden ihres Schleiers doppelt um ihren Hals.
+
+Wie? es liegt Ihnen also etwas an meinem Dasein? fragte sie.
+
+Ei gewiß!
+
+Das ist großmüthig!
+
+Sie ging schweigend einige Schritte, indem sie sich leicht auf den Arm ihres Begleiters stützte und nach ihrer Art den graziösen Körper wiegte. Ihr guter Pfarrer hält mich wohl für eine Art von Teufelin? fuhr sie fort.
+
+Nicht er allein, sagte Lucan mit ironischer Kaltblütigkeit.
+
+Sie lachte kurz und gezwungen aus; dann fuhr sie weiterschreitend nach einer neuen Pause mit gesenktem Kopfe fort: Sie müssen mich doch jetzt etwas weniger verabscheuen, nicht?
+
+Etwas weniger.
+
+Sprechen Sie ernsthaft, wollen Sie? Ich weiß, daß ich Ihnen viel zu Leid gethan habe. Fangen Sie an, mir zu vergeben? — Ihre Stimme hatte einen Ausdruck von Innigkeit angenommen, der ihr sonst nicht eigen war und Herrn von Lucan rührte.
+
+Ich vergebe Ihnen von ganzem Herzen, mein Kind, erwiderte er.
+
+Sie blieb stehen und sagte, indem sie seine beiden Hände ergriff, in leisem, fast schüchternem Tone: Wirklich? mit unserem Haß ist es zu Ende? Sie lieben mich ein wenig?
+
+Ich danke Ihnen, sagte Lucan mit ernster Rührung; ich danke Ihnen, und habe Sie sehr lieb.
+
+Da sie ihn leise an sich zog, umschlang er sie mit unbefangenem, herzlichem Druck des Armes und heftete seine Lippen auf die Stirne, die sie ihm darreichte; in demselben Augenblick aber fühlte er, wie die geschmeidige Gestalt der jungen Frau erstarrte; ihr Kopf sank zurück, dann brach sie völlig zusammen und glitt in seinen Armen hinab, wie ein gemähter Halm.
+
+Zwei Schritte entfernt stand eine Bank, dorthin brachte er sie; nachdem er sie aber auf dieselbe niedergelassen, blieb er, statt ihr Hülfe zu leisten, in einer Haltung seltsamer Regungslosigkeit vor dieser reizenden leblosen Erscheinung stehen. Eine lange Stille entstand, nur durch das leise, traurige Murmeln des Baches belebt. Endlich erwachte Lucan aus seiner Betäubung und rief wiederholt mit lauter, fast harter Stimme: Julia! Julia! — Da sie sich nicht rührte, stieg er in die Schlucht hinab, schöpfte eilig Wasser in seine Hand und besprengte ihr damit die Schläfen. Nach einem Augenblick sah er in der Dunkelheit, wie ihre großen Augen sich öffneten, und half ihr, den Kopf aufzurichten.
+
+Was ist denn das? fragte sie, indem sie ihn mit verwirrtem Blicke ansah; was ist denn geschehen?
+
+Nun, Sie sind ein wenig ohnmächtig geworden, antwortete Lucan lachend.
+
+Ohnmächtig?
+
+Freilich; ich hatte das befürchtet. Die Kälte wird Ihnen geschadet haben. Können Sie gehen? Kommen Sie, versuchen Sie es.
+
+Ganz gut, sagte sie, indem sie seinen Arm ergriff.
+
+Wie Alle, die solchen plötzlichen Zufällen unterworfen sind, erinnerte sich Julia nur ganz undeutlich des Anlasses, welcher ihre Ohnmacht herbeigeführt hatte.
+
+Sie hatten langsam den Rückweg nach dem Schlosse eingeschlagen. — Ohnmächtig! wiederholte sie lustig; Gott! wie lächerlich das ist! — Dann mit plötzlicher Lebhaftigkeit: Aber was habe ich gesagt? Habe ich etwas gesprochen?
+
+Sie sagten: Mich friert! und damit waren Sie weg.
+
+Wirklich?
+
+Ja.
+
+Hielten Sie mich für todt?
+
+Ich hoffte es einen Augenblick, sagte Lucan kalt.
+
+Wie abscheulich! Aber vorher sprachen wir zusammen? Wovon war die Rede?
+
+Wir schlossen einen Freundschaftsbund.
+
+So! Es sieht nicht danach aus, Herr von Lucan!
+
+Gnädige Frau?
+
+Sie scheinen es mir übel zu nehmen, daß ich ohnmächtig geworden bin?
+
+Allerdings. — Erstens mag ich keine Scenen — und dann ist es einzig Ihre Schuld — Sie sind so unbedacht, so unvernünftig!
+
+O mein Gott! wollen Sie nicht lieber gleich die Ruthe brauchen? Und als die Lichter des Schlosses sichtbar wurden: Bitte, beunruhigen Sie meine Mutter nicht mit diesem Vorfalle, nicht wahr?
+
+Ich werde mich hüten; Sie dürfen ruhig sein.
+
+Wissen Sie, daß Sie ungemein mürrisch sind?
+
+Das ist wahr; aber ich habe vorhin so peinliche Minuten verlebt —
+
+Ich bedauere Sie von ganzer Seele, sagte Julia trocken. — Sie warf im Vestibule ihren Schleier ab und trat in den Salon.
+
+Die Baronin Pers, welche Morgens frühzeitig abreisen wollte, hatte sich schon zurückgezogen. Julia spielte mit ihrer Mutter vierhändige Sonaten. Herr von Lucan trat bei des Pfarrers Whistparthie statt des Strohmanns ein, und der Abend ging friedlich zu Ende.
+
+VII.
+
+Am Morgen war Clotilde eben im Begriff, mit ihrer Mutter in den Wagen zu steigen, der sie nach der Bucht führen sollte; Herr von Lucan, den ein Geschäft im Schlosse zurückhielt, wohnte ihrer Abfahrt bei. Er bemerkte ein nachdenkliches Wesen an der Baronin; sie war gegen ihre Gewohnheit schweigsam, warf verlegene Blicke auf ihn, näherte sich ihm wiederholt mit gezwungenem Lächeln und vertraulicher Miene, beschränkte sich aber darauf, alltägliche Worte an ihn zu richten. Endlich benützte sie einen Augenblick, wo Clotilde noch einige Befehle gab, um sich aus dem Schlage zu beugen und Lucan kräftig die Hand zu drücken: Bleiben Sie ein rechtschaffener Mann, sagte sie. Zugleich sah er ihre Augen feucht werden. Der Wagen fuhr in derselben Minute ab.
+
+Die Angelegenheit, die Herrn von Lucan beschäftigte und über die er sich noch denselben Morgen mit seinem Advocaten und dem Notar, welche Beide während der Nacht aus Caen eingetroffen waren, ausführlich besprach, war ein alter Familienprozeß; der Maire von Vastville, ein ehrgeiziger und halsstarriger Mann, hatte seinen Ruhm darein gesetzt, denselben wieder auszuwärmen. Es handelte sich um einen alten Anspruch auf angebliche Gemeindeländereien, welcher Herrn von Lucan eines Theiles seiner Wälder beraubt und sein väterliches Erbgut verstümmelt haben würde. Er hatte diesen Prozeß in erster Instanz gewonnen; aber derselbe sollte nun bald vor dem Appellhofe verhandelt werden, und er war in Sorge über das Endergebniß. Es gelang ihm leicht, diese Sache während einiger Tage zum Vorwand seiner ernsten Miene, seiner kurzen Worte, seines Hanges zur Einsamkeit zu nehmen, worunter sich vielleicht ernstere Kümmernisse verbargen. Bald sollte ihm dieser Vorwand fehlen. Schon im Beginn der folgenden Woche erfuhr er durch ein Telegramm, daß sein Prozeß in letzter Instanz gewonnen sei, und mußte bei diesem Anlasse eine Heiterkeit an den Tag legen, von welcher sein Herz weit entfernt war.
+
+Von da an nahm er die gemeinschaftliche Lebensweise wieder auf, welcher Julia unausgesetzt die volle Regsamkeit ihrer lebhaften Phantasie mittheilte. Dennoch ging er auf die Launen seiner Stieftochter nicht mehr mit derselben liebreichen Vertraulichkeit ein, wie früher. Sie bemerkte es; aber sie bemerkte es nicht allein. Lucan begegnete in Herrn von Moras' Blick dem Erstaunen, in dem Clotildens der Anklage. Eine neue Gefahr bedrohte ihn. Er lud Vorwürfe aus sich, welche mit einer Rechtfertigung zu beantworten oder unbeantwortet ihrer eigenen Auslegung zu überlassen gleich unmöglich, gleich furchtbar erschien.
+
+Mit der Zeit verblaßte jedoch wieder die schreckliche Klarheit, die ihm bei dem jüngsten Begebnisse den Kopf durchzuckt hatte; sie stand nicht mehr mit der gleichen Kruft der Ueberzeugung vor seinem Geiste. Er wurde zweifelhaft, er beschuldigte sich für Augenblicke einer förmlichen Verirrung, beschuldigte die Baronin eines grausamen und strafbaren Verdachtes; er sagte sich endlich, daß es in jedem Falle das Klügste sei, gar nicht an das Drama zu glauben und es nicht dadurch, daß er geradezu eine Rolle darin Übernahme, erst recht ins Leben zu rufen. Unglücklicher Weise erlaubte Julia's unberechenbarer, von einer Ueberraschung zur andern überspringender Charakter nicht, einen regelmäßigen Plan der Behandlung bei ihr durchzuführen.
+
+Eines schönen Nachmittags hatten die Schloßbewohner in Gesellschaft einiger Nachbarn einen Ausflug zu Pferde nach dem Vorgebirge La Hague gemacht. Auf dem Rückweg, ungefähr in der Mitte des Weges, entfernte sich Julia, die den ganzen Tag über auffallend schweigsam gewesen, von der Gesellschaft und spornte ihr Pferd etwas vorwärts, indem sie Herrn von Lucan einen ausdrucksvollen Blick zuwarf. Er war fast augenblicklich an ihrer Seite. Sie warf ihm von Neuem einen Seitenblick zu und fragte plötzlich mit ihrem bittersten und stolzesten Tone: Ist Ihnen meine Nähe gefährlich, mein Herr?
+
+Wie so, gefährlich? lachte er. Ich verstehe Sie nicht, Gnädigste.
+
+Weßhalb fliehen Sie mich? Was habe ich Ihnen gethan? Was bedeutet dieses neue und unangenehme Benehmen, das Sie gegen mich zur Schau tragen? Es ist doch wahrlich seltsam, daß Sie um so weniger artig sind, je mehr ich es bin. Jahre lang verfolgt man mich, ich soll Ihnen ein freundliches Gesicht machen, und wenn ich mein Aeußerstes darin thue, so schmollen Sie! Was soll das heißen? Was geht Ihnen durch den Kopf? — Ich bin höchst neugierig, es zu erfahren.
+
+Das ist ganz einfach, und ich kann es Ihnen mit zwei Worten erklären. Es geht mir durch den Kopf, daß Sie, nachdem Sie geraume Zeit wenig liebenswürdig gegen mich waren, es jetzt fast zu sehr geworden sind. — Das rührt und freut mich aufrichtig; aber ich fürchte manchmal in der That, Aufmerksamkeiten, auf die ich nicht allein Rechte habe, zu eigennützig auf mich abzulenken. Sie wissen, wie sehr ich Ihren Gatten liebe — Hier kann selbstverständlich nicht von Eifersucht die Rede sein; aber die Zuneigung eines Mannes ist stolz und empfindlich. Ohne zu einer niedrigen und überdies unmöglichen Auffassung herabzusinken, könnte Pierre, wenn er sich etwas vernachlässigt sieht, verletzt und traurig werden, und das würde uns Beide unglücklich machen, nicht wahr?
+
+Ich kann Nichts halb thun, versetzte sie mit ungeduldiger Bewegung. Man ändert seine Natur nicht. Ich kann nur mit meinem eigenen und nicht mit einem fremden Herzen lieben und — und dann — weßhalb sollte es mir nicht in den Sinn kommen, Pierre eifersüchtig zu machen? Vielleicht hat mein bekannter, alter Haß gegen Sie dieses weise Rechenexempel ausgeheckt. Wenn. Pierre Sie umbringt oder mich, so ist das eine Lösung, wie irgend eine.
+
+Sie werden mir wohl gestatten, eine andere vorzuziehen, erwiderte Lucan, der, wenn auch ohne viel Erfolg, noch immer diesem sonderbar gereizten Gespräch eine heitere Wendung zu geben suchte.
+
+Uebrigens, fuhr sie fort, beruhigen Sie sich, mein lieber Herr. Pierre ist nicht eifersüchtig — er hat keine Ahnung, wie man im Vaudeville zu sagen pflegt. — Sie brach in jenes schlimme Lachen aus, das ihr manchmal eigen war, und fügte gleich darauf in ernstem Tone bei: Und was sollte er ahnen? Wenn ich liebenswürdig gegen Sie bin, so geschieht es auf Befehl — und Niemand kann wissen, bis zu welchem Grade ich von dem Meinigen hinzufüge.
+
+Ich bin überzeugt, daß Sie dies selbst nicht wissen, sagte er lachend. Sie sind eine ruhelose Natur; Sie bedürfen der Stürme, und wenn Sie keinen haben, so machen Sie sich einen. Ob Sie Ihren Stiefvater lieben oder nicht lieben, daran ist im Grunde wenig Dramatisches. Es handelt sich dabei nur um ganz einfache, ganz gewöhnliche Empfindungen. Aber eben darum muß man sie nothwendig etwas compliciren — nicht wahr, meine Liebe?
+
+Ja — mein Lieber! gab sie zurück, indem sie auf das letzte Wort ironischen Nachdruck legte, dann setzte sie ihr Pferd in Galopp.
+
+Soeben war die Waldgrenze erreicht. Bald sah er Julia den geraden Weg verlassen, der den Wald durchschnitt, und einen Pfad quer durch die Heide ein-schlagen, als wollte sie sich mitten in den dichten Hochwald werfen. In demselben Augenblicke sprengte Clotilde zu ihm heran und fragte lebhaft, seine Schulter mit dem Stiel ihrer Reitgerte berührend: Wohin will denn Julia? — Lucan antwortete mit einer unbestimmten Geberde und einem Lächeln.
+
+Ich bin überzeugt, fuhr Clotilde fort, daß sie dort unten an der Quelle trinken will — sie klagte vorhin über Durst — folge ihr, Lieber, ich bitte dich, und halte sie ab — sie ist so erhitzt — es kann ihr tödtlich werden — Schnell hin, ich beschwöre dich! —
+
+Herr von Lucan überließ seinem Pferde den Zügel; es schoß dahin wie ein Blitz. Schon war Julia zwischen den Bäumen verschwunden. Er folgte ihrer Spur, doch hemmten die Wurzeln des Hochwaldes und der abschüssige Boden sein rasches Vordringen.
+
+In kurzer Entfernung von dort hatten die Arbeit der Jahrhunderte und stetes Durchsickernlassen des Bodens in einer schmalen Lichtung eine jener geheimnißvollen Quellen geschaffen, deren klares Wasser, bemooste Umrahmung und tiefe Einsamkeit die Phantasie bezaubern und ihr so manche schöne Sage entlockt haben. Als Herr von Lucan zwischen den Bäumen hindurch Julia wieder erblickte, war sie bereits abgestiegen. Ihr vorzüglich dressirtes Pferd stand zwei Schritte von ihr, ohne sich zu rühren, und knusperte am Laube, während seine Herrin knieend, über den Rand der Quelle gebeugt, aus ihren Händen trank.
+
+Julia, ich bitte Sie! rief Lucan mit erhobener Stimme.
+
+Sie war mit leichtem Satz in die Höhe gesprungen und begrüßte ihn heiter. Zu spät, mein Herr! sagte sie; aber ich habe nur einige Tropfen getrunken, nur einige Tröpfchen, ich schwöre es Ihnen!
+
+Sie sind wirklich toll! sagte Lucan, der nun dicht bei ihr war.
+
+Finden Sie? — sie bewegte ihre weißen, herrlichen Hände, die ihr als Becher gedient hatten und Diamanten von sich zu schütteln schienen. Geben Sie mir Ihr Taschentuch!
+
+Lucan reichte ihr sein Taschentuch. Sie trocknete sich eifrig die Hände, erhob sich dann, während sie ihm das Tuch mit der rechten Hand zurückgab, etwas auf die Fußspitzen, und bot ihm die Linke bis zu der Höhe seines Gesichtes: Hier! schmollen Sie nicht!
+
+Lucan küßte die Hand. — Jetzt die andere! fuhr sie fort. Werden Sie doch nicht so bleich, mein Freund!
+
+Lucan that, als hätte er diese letzten Worte nicht gehört, und stieg hastig ab. — Ich muß Ihnen in den Sattel helfen, sagte er mit trockenem, hartem Ton.
+
+Sie zog mit gesenktem Kopfe ihre Handschuhe an. Plötzlich erhob sie die Stirn und heftete einen starren Blick auf ihn. Was für ein erbärmliches Geschöpf ich bin, nicht wahr? sagte sie.
+
+Nein, versetzte Lucan; nur was für ein unglückliches!
+
+Sie stützte sich gegen einen der Bäume, die den Quell beschatteten, den Kopf halb zurückgeworfen, eine Hand über den Augen.
+
+Kommen Sie! sagte Lucan.
+
+Sie gehorchte, und er half ihr, sich zu Pferde zu setzen. Sie verließen die Stelle ohne zu sprechen, kamen auf den Weg zurück und hatten bald die andern Reitenden eingeholt.
+
+Kaum war Lucan der Qual dieser Scene entronnen, als er klar empfand, daß deren nothwendige und unmittelbare Folge die Entfernung Julia's und ihres Mannes sein mußte; wie er aber begann, nach Mitteln zu suchen, um eine so überstürzte Abreise herbeizuführen, verwickelte er sich in unauflösliche Schwierigkeiten. Durch welchen Beweggrund sollte man vor Clotilden und Herrn von Moras einen so neuen und so unvorhergesehenen Entschluß rechtfertigen? Es war Mitte August, und man war längst übereingekommen, daß die ganze Familie am ersten September nach Paris zurückkehren sollte. Schon die Nähe des für die Abreise Aller festgesetzten Termins mußte jedem zu solch plötzlicher Trennung ersonnenen Vorwande doppelte Unwahrscheinlichkeit verleihen. Es war fast unmöglich, dadurch nicht in Clotildens und des Grafen Seele einen nie wieder auszulöschenden Argwohn, eine Erleuchtung hervorzurufen, die für das Glück der Einen wie des Andern tödtlich sein mußte. Das Heilmittel erschien in der That noch gefährlicher, als das Uebel selbst, denn wie groß auch das Hebet sein mochte, es war wenigstens Jenen unbekannt, die es ins Herz und ins Leben getroffen hätte, und noch konnte man hoffen, daß es ihnen für immer unbekannt bleiben würde. Lucan dachte einen Augenblick daran, sich selbst zu entfernen; aber es war noch unmöglicher, sein Fortgehen zu motiviren, als Julia's Abreise.
+
+Nach all diesen Betrachtungen faßte er den Entschluß, sich mit Geduld und Muth zu waffnen. War man einmal in Paris, so durfte man hoffen, daß die getrennten Wohnungen, die selteneren Berührungen, die gesellschaftlichen Verpflichtungen, die ganze Geschäftigkeit des Lebens bald genug zur Abspannung und allmählich zur friedlichen Lösung des schmerzlich verworrenen Zustandes führen würden, über den er sich fortan nicht mehr täuschen konnte. Er zählte aus sich selbst und auch auf die angeborne Großherzigkeit Julia's, um ohne Aussehen und Bruch an das nahe Ziel zu gelangen, welches dem Zusammenleben und seinen unaufhörlichen Gefahren ein Ende machen sollte. Es konnte ja doch nicht unmöglich sein, nur noch kurze vierzehn Tage lang dem Ausbruch eines Gewitters vorzubeugen, das seit Monaten grollte, ohne jeine Blitze loszulassen. Er vergaß, mit welcher entsetzlichen Schnelligkeit die Krankheiten der Seele gleich denen des Körpers, nachdem sie langsam und allmählich bei gewissen verhängnißvollen Krisen angekommen sind, aus einmal ihre Fortschritte und Verheerungen beschleunigen.
+
+Lucan fragte sich, ob er das Benehmen, das er sich vorgezeichnet, und die Gründe, die ihn dazu ge-nöthigt, Julia wissen lassen sollte; aber jeder Schatten einer Erklärung zwischen ihnen erschien ihm entschieden unpassend und gefährlich. Ein vertrauliches Einverständniß über einen solchen Punkt würde den Charakter gemeinschaftlicher Schuld angenommen haben, wogegen sein Ehrgefühl sich entschieden auflehnte. Trotz der furchtbaren Klarheit, die plötzlich aufgeleuchtet war, blieb doch etwas Dunkles, Unbestimmtes, Uneingestandenes zwischen ihnen zurück, das er um jeden Preis bewahren zu müssen glaubte. Weit entfernt also, Gelegenheiten zu geheimer Unterredung aufzusuchen, vermied er eine solche von nun an mit äußerster Behutsamkeit. Julia schien übrigens von gleicher Zurückhaltung durchdrungen, eben so besorgt wie er, jedes Alleinsein mit ihm zu fliehen, wiewohl sie diese Anstrengungen zu verbergen suchte; hierin besaß jedoch die junge Frau nicht die Verstellungskraft, welche Lucan seiner natürlichen und erworbenen Festigkeit verdankte. Er seinerseits vermochte die Qual, die ihn verzehrte, ohne sichtbare Anstrengung unter seinem gewöhnlichen Ernste zu verbergen. Julia dagegen gelangte nicht ohne fast convulsivischen Zwang dahin, die innere Last mit erhobener Stirn und lachendem Munde zu tragen. Für den einzigen Zeugen, der um das Geheimniß ihrer Kämpfe wußte, war das Schauspiel der reizvollen und fieberhaften Lebhaftigkeit, die das unglückliche Kind mühsam erkünstelte, herzzerschneidend. Manchmal sah er von Weitem, wie sie, gleich einer erschöpften Schauspielerin, sich nach einer einsamen Gartenbank flüchtete, stöhnend, die Hand gegen die Brust gepreßt, als wollte sie ihr empörtes Herz festhalten. Dann konnte er trotz alledem nicht umhin, mit so viel Schönheit und Unglück unaussprechliches Mitleiden zu fühlen.
+
+War es wirklich nur Mitleid? — —
+
+Clotilde und Julia's Gatte waren in Haltung, Worten und Blicken zur gleichen Zeit für Herrn von Lucan der Gegenstand unaufhörlicher unruhiger Beobachtung. Clotilde hatte offenbar nicht den geringsten Verdacht geschöpft. Die sanfte Heiterkeit ihrer Züge war unverändert geblieben. Einige Seltsamkeiten mehr oder weniger in Julia's Benehmen waren ihr nicht neu genug, um ihre Aufmerksamkeit besonders auf sich zu ziehen. Ueberdies blieben ihrer Geistesart die ungeheuren Abgründe, die ihr zur Seite gähnten, allzufern; sie würde den Fuß hineingesetzt haben und darin versunken sein, ohne sie nur zu ahnen.
+
+Der blonde, ruhige, schöne Kopf des Grasen Moras behielt zu allen Stunden, gleich Lucan's brünettem Antlitz, eine wie in Stein gemeißelte Festigkeit. Deßhalb war es auch ziemlich schwierig, die Eindrücke einer von Natur starken Seele, die in hohem Grade Herrin ihrer selbst war, darin zu lesen. Dennoch war diese Seele in einem Punkte schwach geworden. Herr von Lucan wußte das wohl; er kannte des Grafen glühende Liebe zu Julia und die krankhafte Reizbarkeit seiner Leidenschaft. Es war unwahrscheinlich, daß ein solches Gefühl, sobald es ernstlich von Argwohn ergriffen wurde, sich nicht äußerlich durch irgend ein heftiges, wenigstens unzweideutiges Zeichen verrathen sollte. Herr von Lucan bemerkte jedoch keines dieser gefürchteten Symptome. Erspähte er auch zuweilen ein flüchtiges Falten der Brauen, eine vielsagende Betonung, einen flüchtigen oder zerstreuten Blick, so konnte er höchstens an irgend eine Regung jener unbestimmten, phantastischen Eifersucht glauben, die, wie er wußte, den Grafen schon seit langer Zeit quälte. Außerdem sah er ihn in der Familie stets mit demselben lächelnden Gleichmuth erscheinen und empfing von ihm fortwährend die alten Beweise von Herzlichkeit. Dennoch gaben ihm seine durch die redlichste Freundschaft gerechtfertigten unablässigen Grübeleien die wahnsinnige Versuchung ein, den Grafen zum Vertrauten der ihnen gemeinsam auferlegten Prüfung zu machen; während aber diese mißliche und schonungslose Mittheilung sein eigenes Herz erleichtert haben würde, hätte sie nicht das seines Freundes zur Verzweiflung gebracht? Und war nicht überdies von dieser vermeinten Ehrlichkeit dadurch, daß sie das Geheimniß einer Frau preisgab, eine gewisse Feigheit, ja offenbarer Verrath unzertrennlich?
+
+Er mußte also inmitten jo vieler Klippen und Abgründe das ganze Gewicht der Prüfung bis zum Ende klein tragen, obgleich sie vielleicht noch verwickelter und gefahrvoller war, als Lucan sich dies selbst gestehen mochte.
+
+Sie sollte früher, als er ahnen konnte, zu Ende gehn.
+
+Eines Tages fuhren Clotilde und ihr Gemahl in Begleitung von Herrn und Frau von Moras aus, um die Ueberreste einer bedeckten Gallerie zu besuchen, die zu den seltenen Alterthümern der Druidenzeit in jener Gegend gehört. Diese Ruinen sind von einem malerischen Schwibbogen überwölbt, der in der die Ostseite der Halbinsel abschließenden Felsenmauer ausgehauen ist; sie bedecken mit ihrer ungestalten Masse einen jener beras'ten Vorsprünge, die sich hier und dort gleich ungeheuren Strebepfeilern am Fuße der Felsen hinziehen. Trotz der jähen Senkung gelangt man auf einem bequemen Wege dahin, der sich in weiten Schlangenlinien bis zum gelben Saude der kleinen Bucht hinabzieht. Clotilde und Julia zeichneten den alten celtischen Tempel ab, während die Männer rauchten; dann unterhielt man sich eine Weile damit, der Flut des Meeres zuzuschauen, das seine Schaumkämme auf den Sand warf. Man kam überein, zur Erleichterung der Pferde den Rückweg auf die Höhe zu Fuße zurückzulegen. Auf ein Zeichen Lucan's setzte sich der Wagen in Bewegung, Clotilde nahm Herrn von Moras' Arm, und sie begannen langsam den gekrümmten Pfad aufzusteigen. Lucan wartete, bis es Julia gefällig wäre, ihnen zu folgen; sie war einige Schritte seitwärts in lebhaftem Gespräch mit einem alten Fischer zurückgeblieben, der seine Köder in den Felsenböhlungen befestigte. Jetzt wendete sie sich gegen Lucan um und rief: Er sagt, es gäbe einen näheren, ganz bequemen Pfad, hier dicht in der Nähe, am Felsen hinauf — ich habe Lust, ihn einzuschlagen, um diesem langweiligen Zickzack zu entgehen.
+
+Thun Sie das nicht, erwiderte Lucan; glauben Sie mir, ein Weg, der für die Landleute sehr bequem ist, kann für Sie höchst unbequem sein.
+
+Nach wiederholter Rücksprache mit ihrem Fischer fuhr Julia fort: Er sagt, es sei wirklich gar keine Gefahr dabei, und die Kinder stiegen täglich da auf und ab. Er wird mir den Anfang des Pfades zeigen; ich brauche nur gerade hinaufzusteigen. Sagen Sie meiner Mutter, daß ich vor euch oben sein werde.
+
+Ihre Mutter wird vor Angst umkommen.
+
+Sagen Sie ihr nur, es sei nicht gefährlich.
+
+Lucan gab es aus, länger gegen einen Eigensinn zu kämpfen, der bereits ungeduldig wurde, und beauftragte den Bedienten, der Julia's Shwals und Album trug, Clotilden und Herrn von Moras, die schon um die Ecke des Weges verschwunden waren, zu beruhigen; dann kehrte er zu Julia zurück und sagte: Sobald Sie nun wollen, bin ich bereit.
+
+Sie kommen mit?
+
+Natürlich.
+
+Der alte Fischer ging voraus, unter dem Felsen hin. Nachdem sie die sandige Bucht verlassen, war das Ufer weiterhin mit scharfkantigen Klippen und mächtigen Felsstücken übersä't, welche den Weg sehr beschwerlich machten. Obgleich die Entfernung gering war, fühlten sie sich bereits wie zerbrochen vor Müdigkeit, als sie am Beginn des Felspfades anlangten, und dieser selbst erschien Lucan, vielleicht auch Julien, bei Weitem weniger sicher und bequem, als der Fischer behauptete. Doch mochte Keines von Beiden Einwendungen erheben. Nach ein paar Weisungen, die er ihnen zu guter Letzt gab, entfernte sich der alte Mann, höchst befriedigt von Lucan's Freigebigkeit. Beide begannen nun entschlossen den Felsen zu erklettern, der hier das Meer aus einer Höhe von dreihundert Fuß beherrscht.
+
+Im Beginn ihres Aussteigens brachen sie das bisher bewahrte Stillschweigen, um in scherzendem Tone einige kurze Bemerkungen über die Annehmlichkeiten dieses Ziegenpfades zu wechseln, aber die wirklichen und in der That beängstigenden Schwierigkeiten des Steigens nahmen bald ihre volle Aufmerksamkeit in Anspruch. Die schwache Spur verschwand für Augenblicke auf dem nackten Felsen oder in einer Senkung des Bodens. Nur mit Mühe fanden sie den unterbrochenen Streifen wieder. Ihre Füße zögerten auf den glatten Steinwänden, oder auf dem schlüpfrigen, wie mit Seife bestrichenen Grase. Es gab Augenblicke, wo sie einen fast senkrechten Abhang unter sich fühlten, und wenn sie stehen bleiben wollten, um Athem zu schöpfen, verursachten ihnen die vor ihren Augen geöffneten Abgründe, die unermeßliche Ausdehnung, der metallische Glanz des Meeres ein Gefühl des Schwindels, des Schwankens. Trotz des tiefhängenden bedeckten Himmels lastete schwere, gewitterliche Schwüle auf ihnen und beschleunigte noch den raschen Lauf ihres Blutes. Lucan stieg mit einer Art von fieberhaftem Eifer voraus und wendete sich nur dann und wann zurück, um einen Blick auf Julia zu werfen, die ihm ganz dicht folgte, hob aber gleich wieder den Kopf, um irgend einen Haltpunkt, irgend eine ebene Stelle zu suchen, wo man einen Augenblick ohne Gefahr aufathmen könnte. Ueber wie unter ihm war die gleiche senkrechte, zuweilen überhängende Klippe. Plötzlich rief Julia hinter ihm mit angstvollem Tone: Herr von Lucan! bitte, bitte — mir schwindelt!
+
+Er stieg, auf die Gefahr hin, zu stürzen, hastig einige Schritte zurück und erfaßte kräftig ihre Hand: Muth! sagte er lächelnd; was ist Ihnen nur? Eine tapfere Frau, wie Sie!
+
+Man müßte Flügel haben, jagte sie matt.
+
+Sofort begann Lucan wieder aufwärts zu steigen, indem er Julien, die halb ohnmächtig war, unterstützte und mit sich zog.
+
+Endlich hatte er die Freude, den Fuß auf einen Vorsprung zu setzen, der sich mit schmaler Fläche vom Felsen abhob. Er zog Julia's zuckende Gestalt mit Kraft dorthin nach sich. Der Kopf der jungen Frau bog sich nieder und sank auf Lucan's Brust. Er hörte ihre Pulse, ihr Herz mit erschreckender Heftigkeit klopfen. Nach und nach jedoch legte sich dieser Aufruhr. Sie erhob langsam den Kopf, öffnete ihre langen Wimpern und murmelte, indem sie ihn mit schwärmendem Blick ansah: Ich bin so glücklich! ich möchte hier sterben!
+
+Lucan schob sie plötzlich auf Armslänge von sich weg, dann erfaßte er sie plötzlich wieder und umschlang sie fest mit furchtbarer Geberde, indem er einen Blick auf sie und einen zweiten auf den Abgrund warf. Sie glaubte sicher, es ginge in den Tod. Eine leichte Blässe glitt über ihre lächelnden Lippen; ihr Kopf warf sich halb zurück: — Mit Ihnen, — sagte sie, welches Glück!
+
+In demselben Augenblicke ließen sich in geringer Entfernung über ihnen Stimmen vernehmen. Lucan erkannte die Stimme Clotildens und die des Grasen. Sein Arm erschlaffte plötzlich und lös'te sich von Julia's Leib. Ohne zu sprechen, aber mit gebieterischer Geberde zeigte er ihr den Pfad, der sich um den Felsen wand.
+
+Also ohne Sie! sagte sie mit sanftem und stolzem Tone. So stieg sie den Pfad hinauf.
+
+Zwei Minuten später waren sie auf dem Plateau des Felsenhanges und erzählten Clotilden die Gefahren ihres Wagestücks , die ihre sichtliche Aufregung hinreichend erklärten. Wenigstens glaubten sie das.
+
+Am Abend desselben Tages spazierten Julia, Herr von Moras und Clotilde nach der Mahlzeit unter den Hagebuchen des Gartens auf und nieder. Herr von Lucan, nachdem er ihnen eine Weile Gesellschaft geleistet, hatte sich unter dem Vorwande zurückgezogen, daß er einige Briefe schreiben müsse. Er blieb nur. wenige Augenblicke in seinem Arbeitszimmer, wo die Stimmen der Andern sein Ohr berührten und seinen Geist erregten. Der Wunsch nach unbedingter Einsamkeit, nach Sammlung, vielleicht auch irgend eine seltsame, uneingestandene Empfindung führten ihn in jene Damenallee, die eine unauslöschliche Erinnerung für ihn barg. Er wanderte dort lange mit langsamen Schritten im tiefen Schatten, welchen die sinkende Nacht schon ausgoß. Er wollte so zu sagen Aug' in Auge mit seinem eigenen Herzen Rath halten, die Sonde bis in die Tiefe seines Innersten senken. Was er dort fand, entsetzte ihn. Es war eine wahnsinnige Trunkenheit, noch gesteigert durch den Beigeschmack von Sünde. Pflicht, Treue, Ehre, jedes Hinderniß, das sich gegen seine Leidenschaft erhob, verstarkte nur ihr Rasen. Die heidnische Venus zernagte ihm das Herz und träufelte ihre Gifte hinein. Das Bild der verhängnißvollen Schönheit war ohne Unterlaß bei ihm, in seinem glühenden Hirn, vor seinen verwirrten Augen; wider seinen Willen sog er gierig ihr Schmachten, ihre Düste, ihren Hauch ein.
+
+Ein Geräusch von leichten Schritten auf dem Sande hemmte seinen Gang. Durch das Dunkel unterschied er eine weiße Gestalt, die sich näherte. — Sie war es. Mit einem raschen, kaum überlegten Schwunge warf er sich in die dunkle Ecke eines jener massiven Pfeiler, welche die Ruinen im Rücken des Gehölzes stützten. Dichtes Gebüsch verdoppelte dort noch die Finsterniß. — Sie ging vorüber, den Kopf gesenkt, mit ihrem geschmeidigen, rhythmischen Schritte. Sie wandelte bis zu dem kleinen Teiche, der die Wellen des Baches in sich aufnahm, träumte einige Augenblicke am Ufer und kam zurück. Zum zweiten Male schritt sie an der Ruine vorüber, ohne die Augen zu erheben, als wäre sie tief in sich versunken. — Lucan war überzeugt, daß sie keine Ahnung von seiner Gegenwart hatte, als sie plötzlich, ohne im Gehen einzuhalten, den Kopf ein wenig wandte und das einzige Wort zurückwarf: Lebewohl! — mit einem so süßen, so melodischen, so schmerzlichen Tone, als fiele eine Thräne auf klingenden Krystall.
+
+Dieser Augenblick war entscheidend. Es war eine jener Minuten, wo der Mensch das ewig Gute oder das ewig Böse ergreift. Lucan fühlte das. Wenn er dem Zuge der Leidenschaft, des Schwindels, des Mitleids folgte, der ihn mit fast unwiderstehlicher Gewalt zu dieser schönen, unglückseligen Frau hindrängte — der ihn zu ihren Füßen, an ihr Herz reißen wollte — so war, das fühlte er, seine Seele für immer verloren und der Verzweiflung anheim gegeben. Wenn dieses Verbrechen auch Allen unbekannt blieb, ihn trennte es für immer von Allem, was ihm bisher achtungswerth, heilig, unverletzlich gewesen: es gab Nichts mehr für ihn, weder auf Erden noch im Himme ; es gab keine Treue, keine Redlichkeit, keine Ehre, keinen Freund, keinen Gott mehr! Die ganze sittliche Welt ging in diesem Einen Augenblicke unter.
+
+Er nahm das Lebewohl an und antwortete nicht darauf. Die weiße Gestalt entfernte sich und verschwand bald in den Finsternissen.
+
+Der Familienabend ging vorüber wie gewöhnlich; Julia, blaß, düster und stolz, arbeitete stumm an ihrer Stickerei. Lucan bemerkte, daß sie ihre Mutter beim Weggehen mit ungewöhnlicher Bewegung in die Arme schloß.
+
+Er zog sich bald darauf gleichfalls zurück. Von den furchtbarsten Ahnungen bestürmt, ging er nicht zu Bette. Erst gegen Morgen warf er sich auf sein Lager. Es war ungefähr fünf Uhr und der Tag hämmerte kaum, als er auf den Teppichen des Corridors und der Treppe vorsichtige Schritte zu hören glaubte. Er stand wieder auf. Die Fenster seines Zimmers gingen nach dem Hofe. Er sah Julia, wie sie über denselben hinschritt; sie trug ein Reitkleid. Jetzt trat sie in die Ställe und kam nach einigen Augenblicken wieder heraus. Ein Diener führte ihr Pferd herbei und half ihr in den Sattel. Der Mensch, an die etwas excentrische Weise der jungen Frau gewöhnt, erblickte in dieser Laune eines Morgenrittes offenbar nichts Auffallendes.
+
+Nach einigen Minuten bangen Nachdenkens faßte Lucan seinen Entschluß. Er begab sich in des Grafen Moras' Zimmer. Zu seiner lebhaften Ueberraschung traf er ihn aufgestanden und angekleidet. Als der Graf Lucan eintreten sah, schien er von einem tiefen Staunen ergriffen. Er heftete einen durchdringenden, sichtlich verwirrten Blick auf ihn. — Was giebt es denn? fragte er endlich mit leiser, bewegter Stimme.
+
+Nichts Ernstliches, hoffentlich, entgegnete Lucan. Doch bin ich unruhig — Julia ist soeben ausgeritten. — Du hast es ohne Zweifel gleich mir gehört und gesehen, da du auf bist?
+
+Ja, sagte Moras, der Lucan fortwährend mit einer unsäglich dumpfen Bestürzung angeblickt hatte; ja, wiederholte er, indem er sich mühsam faßte, und ich bin wahrhaft froh, dich zu sehen, lieber Freund. — Während er diese einfachen Worte sprach, stockte seine Stimme; ein feuchter Schleier überflog seine Augen. Wohin kann sie zu solcher Stunde wollen? setzte er dann mit seinem gewohnten festen Tone hinzu.
+
+Ich weiß es nicht; — irgend eine neue Phantasie, denke ich; aber sie ist mir seit einiger Zeit seltsamer vorgekommen, als sonst, düsterer, und ich bin unruhig. Versuchen wir, ihr zu folgen, wenn es dir recht ist.
+
+Komm, Freund, sagte der Graf nach einem Augenblicke befremdlichen Zögerns mit kaltem Tone.
+
+Sie verließen Beide das Schloß und nahmen ihre Jagdgewehre mit, damit man glauben sollte, sie wollten, wie sie es ziemlich oft thaten, Seevögel schießen. Als es galt, die Richtung zu wühlen, befragte Herr von Moras Lucan mit dem Blick. — Wir haben nichts zu fürchten als die Felswände, antwortete dieser; einige Worte, die ihr gestern entschlüpften, lassen mich besorgen, daß dort die Gefahr ist; aber mit dem Pferde muß sie einen weiten Umweg machen — wenn wir den Wald gerade durchschneiden, werden wir vor ihr dort sein.
+
+Sie wandten sich, östlich vom Schlosse, dem Hochwalde zu und durchschritten ihn schweigend und rasch. —
+
+Der Weg führte unmittelbar nach dem Rande der Felsen , die sie gestern besucht hatten. Der Wald verlief nach dieser Seite hin in eine unregelmäßige Spitze, deren letzte Bäume fast den Felsenrand berührten. Als sie sich mit fieberhaft beschleunigten Schritten diesem äußersten Saume näherten, blieb Lucan plötzlich stehen: Horch! rief er. — Der Hufschlag eines auf hartem Boden galoppirenden Pferdes war deutlich zu hören. — Sie setzten sich in vollen Lauf. Eine Böschung von geringer Höhe trennte den Wald von der Felsplatte. Sie waren zur Hälfte hinüber, indem sie sich an den niederhängenden Zweigen emporhalfen; und nun, durch Gesträuch und Laub verdeckt, hatten sie ein erschütterndes Schauspiel vor Augen: in geringer Entfernung, zu ihrer Linken, kam Julia in wahnsinniger Eile herangeras't; sie folgte dem schrägen Saume des Waldes und schien sich in gerader Linie dem Rande des Abgrundes zuzuwenden. Zuerst glaubten sie, das Pferd gehe durch; aber bald sahen sie, daß sie seine Flanken noch peitschte, um seinen Laus zu beschleunigen.
+
+Sie war jetzt etwa hundert Schritte von beiden Männern entfernt und im Begriff, an ihnen vorüberzukommen. Lucan stürzte vor, um sich auf die andere Seite der Böschung zu schwingen, als Moras' Hand gewaltsam auf seinen Arm niederfiel und ihn festhielt — sie blickten einander an — Lucan war wie betäubt von der tiefen Veränderung im Gesichte des Grafen, seinen krampfhaft verzerrten Zügen und hohlen Augen; er las in seinem starren Blick unermeßlichen Schmerz, zugleich aber unerbittliche Entschlossenheit. Nun wußte er, daß es zwischen ihnen kein Geheimniß mehr gab. Er gehorchte diesem Blick, der jedoch, das fühlte er, für ihn nur den Ausdruck des Vertrauens und freundschaftlichen Flehens hatte. Krampfhaft die Hand des Freundes ergreifend, blieb er regungslos. Das Pferd schoß einige Schritte von ihnen vorüber wie ein Pfeil, die Mähne weiß von Schaum, während Julia, selbst in diesem furchtbaren Augenblicke noch schön, anmuthig und hinreißend, leicht im Sattel auf- und niederflog.
+
+Ein paar Schritte vor der Kante des Felsenrandes warf sich das Pferd, das den Abgrund witterte, plötzlich mit Macht zurück und beschrieb einen Halbkreis. Sie lenkte es wieder nach der Felsplatte, nahm einen Anlauf und jagte nochmals, mit Gerte und Zuruf antreibend, dem schrecklichen Absturze zu. Als das Thier abermals an dieser gräßlichen Schranke Widerstand leistete, warf die junge Frau es herum, gelös'ten Haares, funkelnden Auges, die Nasenflügel weitgeöffnet, und ließ es nach und nach bis zum Felsenkamme rückwärts Hufen. Das dampfende, bäumende Pferd stieg beinahe senkrecht aus und zeichnete sich in seiner vollen Höhe gegen den grauen Morgenhimmel ab.
+
+Lucan fühlte, wie sich die Nägel seines Freundes in sein Fleisch gruben.
+
+Endlich war das Thier besiegt; seine beiden Hinterfüße verloren den Boden und tauchten in das Leere. Es überschlug sich, seine Vorderbeine griffen convulsivisch in die Luft.
+
+Einen Augenblick später war die Klippe leer. Kein Laut hatte sich vernehmen lassen. In dieser ungeheuren Tiefe waren Sturz und Tod stumm geblieben.
